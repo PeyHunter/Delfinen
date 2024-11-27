@@ -15,10 +15,15 @@ public class Medlem extends Person
     }
 
 
-    protected int getMedlemsId()
+
+    public int getMedlemsId()
     {
         return medlemsId;
     }
+
+
+
+
 
 
 

@@ -6,9 +6,10 @@ public class Main
 {
     public static void main(String[] args)
     {
+        MedlemsOversigt medlemsOversigt = new MedlemsOversigt();
 
-        Medlem medlem1 = new Medlem("Torben", 78348, 938393, "@gmail.com", LocalDate.now(), 3435);
-        System.out.println(medlem1);
+        System.out.println(medlemsOversigt);
+
 
 //
 //        Medlem medlem1 = new Medlem(new Person("Torben", 78348, 938393, "@gmail.com") {}, 3435);
