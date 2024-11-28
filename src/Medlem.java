@@ -6,14 +6,16 @@ public class Medlem extends Person
 
     protected LocalDate oprettelsesDato;
     protected int   medlemsId;
-    protected boolean erAktiv;
+    protected boolean aktivStatus;
+    protected boolean erMotionist;
 
-    public Medlem(String navn, int foedselsdag, int telNr,String mail, LocalDate oprettelsesDato, int medlemsId)
+    public Medlem(String navn, CPR cpr, int telNr,String mail, LocalDate oprettelsesDato, boolean aktivStatus, boolean erMotionist, int medlemsId)
     {
-        super(navn, foedselsdag,telNr, mail);
+        super(navn, cpr,telNr, mail);
         this.oprettelsesDato = oprettelsesDato;
         this.medlemsId = medlemsId;
-        this.erAktiv = erAktiv;
+        this.aktivStatus = aktivStatus;
+        this.erMotionist = erMotionist;
     }
 
 
@@ -22,16 +24,39 @@ public class Medlem extends Person
         return medlemsId;
     }
 
+    public String getAktivStatus()
+    {
+        if(aktivStatus == true)
+        {
+            return "Aktiv";
+        } else
+        {
+            return "Passiv";
+        }
+    }
+
+    public String getMotionistStatus()
+    {
+        if(erMotionist == true)
+        {
+            return "Motionist";
+        }else {
+            return "Konkurrance Deltager";
+        }
+
+    }
 
     public String toString()
     {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
 
         return "Medlem: " + navn + "\n" +
-                "Fødselsdag: " + foedselsdag + "\n" +
+                "CPR: " + cpr + "\n" +
                 "TlfNr: " + telNr + "\n" +
                 "Mail: " + mail + "\n" +
                 "Oprettelsesdato: " + oprettelsesDato + "\n" +
+                "Aktiv/Passiv: " + getAktivStatus() + "\n" +
+                "Motionist/Konkurrance: " + getMotionistStatus() + "\n" +
                 "MedlemsId: " + medlemsId + "\n"
                 ;
 

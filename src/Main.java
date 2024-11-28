@@ -10,16 +10,16 @@ public class Main
 
 
 
-        MedlemsOversigt medlemsOversigt = new MedlemsOversigt();
+       MedlemsOversigt medlemsOversigt = new MedlemsOversigt();
         System.out.println(medlemsOversigt);
 
-        Medlem peyton = new Medlem("Peyton", 2503,8972348,"@gmailkdkdk", LocalDate.now(), 1023);
-        Medlem isa = new Medlem("Isa", 2503,8972348,"@gmailkdkdk", LocalDate.now(), 1023);
+        Medlem peyton = new Medlem("Peyton", new CPR("111111-1111"),8972348,"gmailkdkdk", LocalDate.now(), false, false, 1023);
+        System.out.println(peyton);
+
 
         medlemsOversigt.addMedlemmerToMedlemmerOversigt(peyton);
-        medlemsOversigt.addMedlemmerToMedlemmerOversigt(isa);
 
-        System.out.println(medlemsOversigt);
+       System.out.println(medlemsOversigt);
 
         System.out.println(medlemsOversigt.getAntalMedlemmere());
 
@@ -28,3 +28,9 @@ public class Main
 //        System.out.println(medlem1);
     }
 }
+
+
+
+// 1. CPR SKAL Virke
+// 2. TILFØJ boolean AKTIV og MOTIONIST
+// 3 tilføj setmetoder for at kunne

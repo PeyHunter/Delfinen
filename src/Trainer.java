@@ -7,9 +7,9 @@ public class Trainer extends Person
 
     protected String diciplin;
 
-    public Trainer(String navn, int foedselsdag, int telNr, String mail, String diciplin)
+    public Trainer(String navn, CPR cpr, int telNr, String mail, String diciplin)
     {
-        super(navn, foedselsdag,telNr, mail);
+        super(navn, cpr,telNr, mail);
         this.diciplin = diciplin;
 
     }
@@ -21,7 +21,7 @@ public class Trainer extends Person
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
 
         return "Medlem: " + navn + "\n" +
-                "Fødselsdag: " + foedselsdag + "\n" +
+                "Fødselsdag: " + cpr + "\n" +
                 "TlfNr: " + telNr + "\n" +
                 "Mail: " + mail + "\n" +
                 "Diciplin: " + diciplin + "\n"
