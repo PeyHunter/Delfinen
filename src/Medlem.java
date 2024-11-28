@@ -46,12 +46,25 @@ public class Medlem extends Person
 
     }
 
+    public String getJuniorStatus()
+    {
+        int alder = cpr.getAlder();
+        if(alder < 18) {
+            return "Junior";
+        } else {
+            return "Senior";
+        }
+
+    }
+
     public String toString()
     {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
 
         return "Medlem: " + navn + "\n" +
                 "CPR: " + cpr + "\n" +
+                "Alder: " + cpr.getAlder() + "\n" +
+                "Junior/Senior: " + getJuniorStatus() + "\n" +
                 "TlfNr: " + telNr + "\n" +
                 "Mail: " + mail + "\n" +
                 "Oprettelsesdato: " + oprettelsesDato + "\n" +
