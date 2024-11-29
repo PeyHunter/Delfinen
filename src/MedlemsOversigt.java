@@ -21,7 +21,7 @@ public class MedlemsOversigt
 
 
 
-        for (int i = 1; i <= 10; i++)
+        for (int i = 1; i <= 250; i++)
         {
 
 

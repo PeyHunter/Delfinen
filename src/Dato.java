@@ -1,8 +1,4 @@
 
-/**
- * @author (Peyton)
- * @version (27 august 2024)
- */
 public class Dato
 {
     private int datoen; // Format YYYYMMDD
