@@ -24,7 +24,7 @@ public class Medlem extends Person
         return medlemsId;
     }
 
-    public String getAktivStatus()
+    public String getMedlemStatus()
     {
         if(aktivStatus == true)
         {
@@ -35,7 +35,7 @@ public class Medlem extends Person
         }
     }
 
-    public String getMotionistStatus()
+    public String getMedlemsType()
     {
         if(erMotionist == true)
         {
@@ -46,7 +46,12 @@ public class Medlem extends Person
 
     }
 
-    public String getJuniorStatus()
+    public int getAlder()
+    {
+        return cpr.getAlder();
+    }
+
+    public String getAlderKatogori()
     {
         int alder = cpr.getAlder();
         if(alder < 18) {
@@ -64,12 +69,12 @@ public class Medlem extends Person
         return "Medlem: " + navn + "\n" +
                 "CPR: " + cpr + "\n" +
                 "Alder: " + cpr.getAlder() + "\n" +
-                "Junior/Senior: " + getJuniorStatus() + "\n" +
+                "Junior/Senior: " + getAlder() + "\n" +
                 "TlfNr: " + telNr + "\n" +
                 "Mail: " + mail + "\n" +
                 "Oprettelsesdato: " + oprettelsesDato + "\n" +
-                "Aktiv/Passiv: " + getAktivStatus() + "\n" +
-                "Motionist/Konkurrance: " + getMotionistStatus() + "\n" +
+                "Aktiv/Passiv: " + getMedlemStatus() + "\n" +
+                "Motionist/Konkurrance: " + getMedlemsType() + "\n" +
                 "MedlemsId: " + medlemsId + "\n"
                 ;
 

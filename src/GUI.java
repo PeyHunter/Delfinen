@@ -137,8 +137,8 @@ public class GUI extends JFrame {
                     medlem.navn,
                     medlem.cpr.toString(),
                     medlem.telNr,
-                    medlem.getAktivStatus(),
-                    medlem.getMotionistStatus()
+                    medlem.getMedlemStatus(),
+                    medlem.getMedlemsType()
             ));
         }
         medlemmerTextArea.setText(sb.toString());
