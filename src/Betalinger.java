@@ -8,7 +8,7 @@ public class Betalinger
     protected boolean betalt = true;
     protected Restance restance;
     protected int rabat;
-    protected Medlem medlem;
+   // protected Medlem medlem;
     protected int medlemsKontingent;
 
     public Betalinger(boolean betalt, Restance restance, int rabat)
@@ -22,7 +22,7 @@ public class Betalinger
     public int udregnBetalinger(Medlem medlem)
     {
         int medlemsKontingt = 0;
-        int rabat;
+        Restance restance = this.restance;
 
         if (medlem.getMedlemStatus().equalsIgnoreCase("Aktiv"))
         {
@@ -43,7 +43,7 @@ public class Betalinger
         {
             return medlemsKontingt = (int) (500); //passiv members
         }
-        return medlemsKontingt - getRabat();
+        return medlemsKontingt - rabat;
     }
 
 

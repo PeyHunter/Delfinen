@@ -41,7 +41,7 @@ public class Medlem extends Person
         {
             return "Motionist";
         }else {
-            return "Konkurrance Deltager";
+            return "Konkurrance";
         }
 
     }
