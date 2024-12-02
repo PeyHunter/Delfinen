@@ -48,6 +48,7 @@ public class CPR
         return Integer.parseInt(nummeret.substring(2, 4));
     }
 
+
     public int getAar() {
         int yearPart = Integer.parseInt(nummeret.substring(4, 6));  // De sidste to cifre af året (yy)
         char centuryIndicator = nummeret.charAt(6);  // 7. ciffer i CPR-nummeret
@@ -66,14 +67,15 @@ public class CPR
 
         int year = aarhundrede + yearPart;
 
-        // Ensure age is between 10 and 110
+        // Correct the century if age is below 10 or above 100
         int currentYear = LocalDate.now().getYear();
         int age = currentYear - year;
 
+        // Adjust the year based on the age
         if (age < 10) {
-            year -= 90;  // Adjust to older century
+            year -= 100;  // If under 10, the year should be from the previous century
         } else if (age > 100) {
-            year += 90;  // Adjust to newer century
+            year += 100;  // If over 100, the year should be from the next century
         }
 
         return year;
@@ -151,23 +153,45 @@ public class CPR
         Random random = new Random();
 
         LocalDate currentDato = LocalDate.now();
-        int minYear = currentDato.getYear() - 110;
-        int maxYear = currentDato.getYear() - 10;
+        int minAge = 10;  // Minimum age
+        int maxAge = 100; // Maximum age
+
+        // Calculate the range of birth years based on the age
+        int minYear = currentDato.getYear() - maxAge;  // 100 years ago
+        int maxYear = currentDato.getYear() - minAge;  // 10 years ago
+
+        // Generate a random birth year within this range
         int year = minYear + random.nextInt(maxYear - minYear + 1);
 
-        int day = 1 + random.nextInt(28);  // Random day between 1 and 28 (avoid invalid dates)
+        int day = 1 + random.nextInt(28);  // Random day between 1 and 28 (to avoid invalid dates)
         int month = 1 + random.nextInt(12);  // Random month between 1 and 12
 
         // Birthdate (DDMMYY)
         String birthDate = String.format("%02d%02d%02d", day, month, year % 100);
 
         // Century indicator (based on year)
-        char centuryIndicator = (year >= 2000) ? '4' : (year >= 1900) ? '2' : '5';
+        char centuryIndicator;
+
+        if (year >= 2000) {
+            centuryIndicator = '4';
+        } else if (year >= 1900) {
+            centuryIndicator = '2';
+        } else {
+            centuryIndicator = '5';
+        }
 
         // Generate random 4-digit number (XXXX)
         int genderPart = random.nextInt(10000);
-        String genderDigit = String.format("%03d", genderPart) + (random.nextBoolean() ? "1" : "2");
+        String genderDigit = String.format("%03d", genderPart);
 
+        // Add gender digit (either '1' or '2')
+        if (random.nextBoolean()) {
+            genderDigit += "1";
+        } else {
+            genderDigit += "2";
+        }
+
+        // Combine birth date, century indicator, and gender part to generate the CPR number
         return birthDate + centuryIndicator + genderDigit;
     }
 
