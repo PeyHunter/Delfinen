@@ -8,14 +8,16 @@ public class Medlem extends Person
     protected int   medlemsId;
     protected boolean aktivStatus;
     protected boolean erMotionist;
+    protected Betalinger betalinger;
 
-    public Medlem(String navn, CPR cpr, int telNr,String mail, LocalDate oprettelsesDato, boolean aktivStatus, boolean erMotionist, int medlemsId)
+    public Medlem(String navn, CPR cpr, int telNr,String mail, LocalDate oprettelsesDato, boolean aktivStatus, boolean erMotionist, int medlemsId, Betalinger betalinger)
     {
         super(navn, cpr,telNr, mail);
         this.oprettelsesDato = oprettelsesDato;
-        this.medlemsId = medlemsId;
         this.aktivStatus = aktivStatus;
         this.erMotionist = erMotionist;
+        this.betalinger = betalinger;
+        this.medlemsId = medlemsId;
     }
 
 
@@ -43,7 +45,6 @@ public class Medlem extends Person
         }else {
             return "Konkurrance";
         }
-
     }
 
     public int getAlder()
@@ -75,9 +76,9 @@ public class Medlem extends Person
                 "Oprettelsesdato: " + oprettelsesDato + "\n" +
                 "Aktiv/Passiv: " + getMedlemStatus() + "\n" +
                 "Motionist/Konkurrance: " + getMedlemsType() + "\n" +
+                "Betalinger: " + betalinger.udregnBetalinger(this) + " DKK" + "\n" +
                 "MedlemsId: " + medlemsId + "\n"
                 ;
-
     }
 
 

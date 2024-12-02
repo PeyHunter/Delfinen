@@ -13,11 +13,11 @@ public class Main
        MedlemsOversigt medlemsOversigt = new MedlemsOversigt();
         System.out.println(medlemsOversigt);
 
-        Medlem peyton = new Medlem("Peyton", new CPR("250394-2502"),8972348,"gmailkdkdk", LocalDate.now(), false, false, 1023);
-        System.out.println(peyton);
+       // Medlem peyton = new Medlem("Peyton", new CPR("250394-2502"),8972348,"gmailkdkdk", LocalDate.now(), false, false, 1023);
+      //  System.out.println(peyton);
 
 
-        medlemsOversigt.addMedlemmerToMedlemmerOversigt(peyton);
+     //   medlemsOversigt.addMedlemmerToMedlemmerOversigt(peyton);
 
        System.out.println(medlemsOversigt);
 
