@@ -5,19 +5,21 @@ public class Medlem extends Person
 {
 
     protected LocalDate oprettelsesDato;
-    protected int   medlemsId;
+    protected int medlemsId;
     protected boolean aktivStatus;
     protected boolean erMotionist;
     protected Betalinger betalinger;
+    protected boolean restance = false;
 
-    public Medlem(String navn, CPR cpr, int telNr,String mail, LocalDate oprettelsesDato, boolean aktivStatus, boolean erMotionist, int medlemsId, Betalinger betalinger)
+    public Medlem(String navn, CPR cpr, int telNr, String mail, LocalDate oprettelsesDato, boolean aktivStatus, boolean erMotionist, int medlemsId, Betalinger betalinger, boolean restance)
     {
-        super(navn, cpr,telNr, mail);
+        super(navn, cpr, telNr, mail);
         this.oprettelsesDato = oprettelsesDato;
         this.aktivStatus = aktivStatus;
         this.erMotionist = erMotionist;
         this.betalinger = betalinger;
         this.medlemsId = medlemsId;
+        this.restance = restance;
     }
 
 
@@ -28,7 +30,7 @@ public class Medlem extends Person
 
     public String getMedlemStatus()
     {
-        if(aktivStatus == true)
+        if (aktivStatus == true)
         {
             return "Aktiv";
         } else
@@ -37,12 +39,14 @@ public class Medlem extends Person
         }
     }
 
+
     public String getMedlemsType()
     {
-        if(erMotionist == true)
+        if (erMotionist == true)
         {
             return "Motionist";
-        }else {
+        } else
+        {
             return "Konkurrance";
         }
     }
@@ -55,32 +59,49 @@ public class Medlem extends Person
     public String getAlderKatogori()
     {
         int alder = cpr.getAlder();
-        if(alder < 18) {
+        if (alder < 18)
+        {
             return "Junior";
-        } else {
+        } else
+        {
             return "Senior";
         }
-
     }
+
 
     public String toString()
     {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
 
-        return "Medlem: " + navn + "\n" +
-                "CPR: " + cpr + "\n" +
-                "Alder: " + cpr.getAlder() + "\n" +
-                "Junior/Senior: " + getAlderKatogori() + "\n" +
-                "TlfNr: " + telNr + "\n" +
-                "Mail: " + mail + "\n" +
-                "Oprettelsesdato: " + oprettelsesDato + "\n" +
-                "Aktiv/Passiv: " + getMedlemStatus() + "\n" +
-                "Motionist/Konkurrance: " + getMedlemsType() + "\n" +
-                "Betalinger: " + betalinger.udregnBetalinger(this) + " DKK" + "\n" +
-                "MedlemsId: " + medlemsId + "\n"
-                ;
-    }
+        int betaling;
+        if (restance == true)
+        {
+            betaling = betalinger.udregnRestance(this);
+        } else
+        {
+            betaling = betalinger.udregnBetalinger(this);
+        }
 
+       String result =  "Medlem: " + navn + "\n" +
+                        "CPR: " + cpr + "\n" +
+                        "Alder: " + cpr.getAlder() + "\n" +
+                        "Junior/Senior: " + getAlderKatogori() + "\n" +
+                        "TlfNr: " + telNr + "\n" +
+                        "Mail: " + mail + "\n" +
+                        "Oprettelsesdato: " + oprettelsesDato + "\n" +
+                        "Aktiv/Passiv: " + getMedlemStatus() + "\n" +
+                        "Motionist/Konkurrance: " + getMedlemsType() + "\n" +
+                        "MedlemsId: " + medlemsId + "\n" +
+                        "Årlig medlems kontingent: " + betalinger.udregnBetalinger(this) + " DKK" + "\n";
+
+                if(restance == true)
+                {
+                    result += "Restance og skylder: " + (betaling) + " DKK" + "\n";
+
+                }
+
+                return result;
+    }
 
 
 }

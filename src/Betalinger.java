@@ -5,70 +5,75 @@ public class Betalinger
     {
     }
 
-    protected boolean betalt = true;
-    protected int rabat;
+    protected boolean restance;
     protected int medlemsKontingent;
-   // protected Medlem medlem;
-   // protected Restance restance;
 
-    public Betalinger(boolean betalt)
+    public Betalinger(int medlemsKontingent)
     {
-        this.betalt = betalt;
-//        this.restance = restance;
-        this.rabat = rabat;
+        this.medlemsKontingent = medlemsKontingent;
     }
 
 
-    public int udregnBetalinger(Medlem medlem) {
+    public int udregnBetalinger(Medlem medlem)
+    {
         int medlemsKontingent = 0;
 
-        if (medlem.getMedlemStatus().equalsIgnoreCase("Aktiv")) {
+        if (medlem.getMedlemStatus().equalsIgnoreCase("Aktiv"))
+        {
             // For active members, determine the membership fee based on age
             int alder = medlem.getAlder();
-            if (medlem.getAlderKatogori().equalsIgnoreCase("Junior")) {
+            if (medlem.getAlderKatogori().equalsIgnoreCase("Junior"))
+            {
                 medlemsKontingent = 1000;  // Junior membership fee
-            } else if (alder >= 60) {
+            } else if (alder >= 60)
+            {
                 medlemsKontingent = (int) (1600 * 0.75);  // 25% discount for seniors over 60
-            } else {
+            } else
+            {
                 medlemsKontingent = 1600;  // Regular senior fee
             }
-        } else {
+        } else
+        {
             medlemsKontingent = 500;  // Passive members pay a smaller fee
         }
-
         return medlemsKontingent;  // Apply discount
     }
 
-//    public boolean restance(Medlem medlem) {
-//        if(restance( = false)){
-//
-//        }
-//    }
 
-
-//    public Restance getRestance()
-//    {
-//        return restance;
-//    }
-
-    public int getRabat()
+    public int udregnRestance(Medlem medlem)
     {
-        return rabat;
+        int restance = 0;
+
+        if (medlem.getMedlemStatus().equalsIgnoreCase("Aktiv"))
+        {
+            // For active members, determine the membership fee based on age
+            int alder = medlem.getAlder();
+            if (medlem.getAlderKatogori().equalsIgnoreCase("Junior"))
+            {
+                restance = - 1000;  // Junior membership fee
+            } else if (alder >= 60)
+            {
+                restance = (int) (-1600 * 0.75);  // 25% discount for seniors over 60
+            } else
+            {
+                restance = -1600;  // Regular senior fee
+            }
+        } else
+        {
+            restance = -500;  // Passive members pay a smaller fee
+        }
+        return restance;  // Apply discount
     }
+
+
+    public boolean getRestance()
+    {
+        return restance; // Return whether the member is in arrears
+    }
+
 }
 
 
-// public int Aktiv (if betagetAKtivStus) == True
-// {
-//      return 1600
-// {
 
-//      Under 18 = 1000 kr
-//-    	Over 18 = 1600 kr
-//-    	Over 60 = 25 % rabat af 1600
-//   	Passivt = 500
 
-// public int Aktiv (if betagetAKtivStus) == True
-// {
-//      return 1600
-// {
+
