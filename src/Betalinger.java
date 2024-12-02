@@ -1,3 +1,6 @@
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+
 public class Betalinger
 {
 
@@ -7,6 +10,9 @@ public class Betalinger
 
     protected boolean restance;
     protected int medlemsKontingent;
+
+
+
 
     public Betalinger(int medlemsKontingent)
     {
@@ -66,10 +72,6 @@ public class Betalinger
     }
 
 
-    public boolean getRestance()
-    {
-        return restance; // Return whether the member is in arrears
-    }
 
 }
 

@@ -9,18 +9,19 @@ public class Medlem extends Person
     protected boolean aktivStatus;
     protected boolean erMotionist;
     protected Betalinger betalinger;
-    protected boolean restance = false;
+    protected boolean erRestance = false;
 
-    public Medlem(String navn, CPR cpr, int telNr, String mail, LocalDate oprettelsesDato, boolean aktivStatus, boolean erMotionist, int medlemsId, Betalinger betalinger, boolean restance)
+    public Medlem(String navn, CPR cpr, int telNr, String mail, LocalDate oprettelsesDato, boolean aktivStatus, boolean erMotionist, int medlemsId, Betalinger betalinger, boolean erRestance)
     {
         super(navn, cpr, telNr, mail);
         this.oprettelsesDato = oprettelsesDato;
         this.aktivStatus = aktivStatus;
         this.erMotionist = erMotionist;
-        this.betalinger = betalinger;
+        this.betalinger = betalinger != null ? betalinger : new Betalinger();
         this.medlemsId = medlemsId;
-        this.restance = restance;
+        this.erRestance = erRestance;
     }
+
 
 
     public int getMedlemsId()
@@ -56,6 +57,10 @@ public class Medlem extends Person
         return cpr.getAlder();
     }
 
+    public Betalinger getBetalinger() {
+        return this.betalinger;
+    }
+
     public String getAlderKatogori()
     {
         int alder = cpr.getAlder();
@@ -74,7 +79,7 @@ public class Medlem extends Person
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
 
         int betaling;
-        if (restance == true)
+        if (erRestance == true)
         {
             betaling = betalinger.udregnRestance(this);
         } else
@@ -94,7 +99,7 @@ public class Medlem extends Person
                         "MedlemsId: " + medlemsId + "\n" +
                         "Årlig medlems kontingent: " + betalinger.udregnBetalinger(this) + " DKK" + "\n";
 
-                if(restance == true)
+                if(erRestance == true)
                 {
                     result += "Restance og skylder: " + (betaling) + " DKK" + "\n";
 

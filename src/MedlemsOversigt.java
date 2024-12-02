@@ -7,10 +7,13 @@ public class MedlemsOversigt
 {
 
     protected ArrayList<Medlem> medlemmerOversigt = new ArrayList<>();
+    protected Restance restance;
 
 
     public MedlemsOversigt()
     {
+        this.medlemmerOversigt = new ArrayList<>();
+        this.restance = new Restance();  // Create an instance of Restance
         createMedlemmereOversigt();
     }
 
@@ -61,7 +64,7 @@ public class MedlemsOversigt
             int medlemsId = 1000 + i;
             boolean restance = random.nextBoolean();
 
-            medlemmerOversigt.add(new Medlem(navn, cpr, tlfNr, mail, oprettelsesDato, erAktiv, erMotionist, medlemsId, (new Betalinger()), restance));
+            medlemmerOversigt.add(new Medlem(navn, cpr, tlfNr, mail, oprettelsesDato, erAktiv, erMotionist, medlemsId, new Betalinger(), restance));
         }
     }
 
@@ -81,6 +84,18 @@ public class MedlemsOversigt
     }
 
 
+    public void addAlleMedlemmeretoRestanceList() {
+        for (Medlem m : medlemmerOversigt) {
+            if (m.erRestance) {
+                restance.addMedlemToRestance(m);
+                System.out.println("Added to RestanceListe: " + m.getNavn());
+            }
+        }
+    }
+
+    public Restance getRestance() {
+        return restance;
+    }
 
 
     @Override
