@@ -69,7 +69,7 @@ public class Medlem extends Person
         return "Medlem: " + navn + "\n" +
                 "CPR: " + cpr + "\n" +
                 "Alder: " + cpr.getAlder() + "\n" +
-                "Junior/Senior: " + getAlder() + "\n" +
+                "Junior/Senior: " + getAlderKatogori() + "\n" +
                 "TlfNr: " + telNr + "\n" +
                 "Mail: " + mail + "\n" +
                 "Oprettelsesdato: " + oprettelsesDato + "\n" +

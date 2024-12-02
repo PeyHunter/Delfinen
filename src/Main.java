@@ -13,7 +13,7 @@ public class Main
        MedlemsOversigt medlemsOversigt = new MedlemsOversigt();
         System.out.println(medlemsOversigt);
 
-        Medlem peyton = new Medlem("Peyton", new CPR("111111-1111"),8972348,"gmailkdkdk", LocalDate.now(), false, false, 1023);
+        Medlem peyton = new Medlem("Peyton", new CPR("250394-2502"),8972348,"gmailkdkdk", LocalDate.now(), false, false, 1023);
         System.out.println(peyton);
 
 
