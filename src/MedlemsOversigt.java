@@ -13,7 +13,7 @@ public class MedlemsOversigt
     public MedlemsOversigt()
     {
         this.medlemmerOversigt = new ArrayList<>();
-        this.restance = new Restance();  // Create an instance of Restance
+        this.restance = new Restance();
         createMedlemmereOversigt();
     }
 
@@ -25,7 +25,6 @@ public class MedlemsOversigt
 
             CPR cpr = new CPR(true);
 
-            // Define name arrays
             String[] drengenavne = {
                     "Peter", "Søren", "Jens", "Thomas", "Anders", "Frederik", "Christian", "Lars", "Hans", "Ole", "Mikkel", "Jacob", "Benjamin", "Mathias", "Emil", "David", "Victor", "Daniel", "Andreas", "Nicklas", "Simon"
             };
@@ -37,26 +36,22 @@ public class MedlemsOversigt
             };
 
 
-
-            // Sidste nummer i
             int lastDigit = cpr.getGender();
             boolean isOdd = (lastDigit % 2 != 0);
 
-            // Choose first name based on last digit (odd/even)
+
             String fornavn;
+
             if (isOdd) {
-                fornavn = drengenavne[random.nextInt(drengenavne.length)];  // Choose a boy's name if the last digit is odd
+                fornavn = drengenavne[random.nextInt(drengenavne.length)];
             } else {
-                fornavn = pigenavne[random.nextInt(pigenavne.length)];  // Choose a girl's name if the last digit is even
+                fornavn = pigenavne[random.nextInt(pigenavne.length)];
             }
 
-            // Choose last name
             String efternavn = efternavne[random.nextInt(efternavne.length)];
 
-            // Full name
             String navn = fornavn + " " + efternavn;
 
-            // Other random information
             int tlfNr = 10000000 + random.nextInt(90000000);
             String mail = fornavn.toLowerCase() + random.nextInt(22222) + "@gmail.com";
             LocalDate oprettelsesDato = LocalDate.now().minusDays(random.nextInt(365 * 5));
@@ -65,7 +60,7 @@ public class MedlemsOversigt
             int medlemsId = 1000 + i;
             boolean restance = random.nextBoolean();
 
-            // Create new Medlem and add to the list
+
             medlemmerOversigt.add(new Medlem(navn, cpr, tlfNr, mail, oprettelsesDato, erAktiv, erMotionist, medlemsId, new Betalinger(), restance));
         }
     }
@@ -87,7 +82,8 @@ public class MedlemsOversigt
 
 
     public void addAlleMedlemmeretoRestanceList() {
-        for (Medlem m : medlemmerOversigt) {
+        for (int i = 0; i < medlemmerOversigt.size(); i++) {
+            Medlem m = medlemmerOversigt.get(i);  // Get the Medlem at index i
             if (m.erRestance) {
                 restance.addMedlemToRestance(m);
                 System.out.println("Added to RestanceListe: " + m.getNavn());

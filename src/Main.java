@@ -7,20 +7,27 @@ public class Main
     public static void main(String[] args)
     {
 
+
         MedlemsOversigt medlemsOversigt = new MedlemsOversigt();
-       medlemsOversigt.addAlleMedlemmeretoRestanceList();
+        medlemsOversigt.addAlleMedlemmeretoRestanceList();
+
+        MedlemsPersistens medlemsPersistens = new MedlemsPersistens();
+        medlemsPersistens.writeMedlemPersistens(medlemsOversigt.getMedlemmerOversigt());
 
 
         RestancePersistens restancePersistens = new RestancePersistens(medlemsOversigt);
         restancePersistens.writeRestancePersistens();
 
-       System.out.println(medlemsOversigt);
-        System.out.println(restancePersistens);
+        TraenerOversigt traenerOversigt = new TraenerOversigt();
 
-        Medlem isabella = new Medlem("isabella,", new CPR("250394-2502"), 10239834, "jkldsaljk@gmail.com", LocalDate.now(), true, true, 93930, new Betalinger(12342), false);
-        System.out.println(isabella);
+        // Opret TraenerPersistens objekt og skriv trænere til fil
+        TraenerPersistens traenerPersistens = new TraenerPersistens(traenerOversigt.getTraenerListe());
+        traenerPersistens.writeTraenerToFile();
 
-        // public Medlem(String navn, CPR cpr, int telNr, String mail, LocalDate oprettelsesDato, boolean aktivStatus, boolean erMotionist, int medlemsId, Betalinger betalinger, boolean erRestance)
+
+
+
+
 
 
 

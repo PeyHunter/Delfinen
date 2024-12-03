@@ -56,18 +56,18 @@ public class CPR
 
     public int getAar() {
 
-        int yearPart = Integer.parseInt(nummeret.substring(4, 6));  // Last two digits of the year (yy)
+        int yearPart = Integer.parseInt(nummeret.substring(4, 6));
 
 
-        char centuryIndicator = nummeret.charAt(6);  // 7th digit in the CPR number
+        char centuryIndicator = nummeret.charAt(6);
 
         int century;
 
 
         if (yearPart < 24) {
-            century = 2000;  // If the year part is 00-23, consider it as the 2000s
+            century = 2000;
         } else {
-            century = 1900;  // Otherwise, consider it as the 1900s
+            century = 1900;
         }
 
 
@@ -77,11 +77,11 @@ public class CPR
         int currentYear = LocalDate.now().getYear();
         int age = currentYear - year;
 
-        // Adjust the year for people over 100 or under 10 years old
+
         if (age < 10) {
-            year -= 100;  // For those under 10, we assume they were born in the previous century
+            year -= 100;
         } else if (age > 100) {
-            year += 100;  // For those over 100, we assume they were born in the next century
+            year += 100;
         }
 
         return year;
@@ -108,7 +108,7 @@ public class CPR
 
         int alder = iDag.getYear() - foedselsdag.getYear();
 
-        // Tjek om fødselsdagen i år endnu ikke er sket
+
         if (iDag.getMonthValue() < foedselsdag.getMonthValue() ||
                 (iDag.getMonthValue() == foedselsdag.getMonthValue() && iDag.getDayOfMonth() < foedselsdag.getDayOfMonth())) {
             alder--;  // Træk 1 fra, hvis fødselsdagen ikke er sket endnu
@@ -128,7 +128,6 @@ public class CPR
     public boolean erKvinde()
     {
         return !erMand();
-
     }
 
     public boolean isValid()

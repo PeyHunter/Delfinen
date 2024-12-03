@@ -22,7 +22,10 @@ public class Medlem extends Person
         this.erRestance = erRestance;
     }
 
-
+    public LocalDate getOprettelsesDato()
+    {
+        return oprettelsesDato;
+    }
 
     public int getMedlemsId()
     {
@@ -91,7 +94,7 @@ public class Medlem extends Person
                         "CPR: " + cpr + "\n" +
                         "Alder: " + cpr.getAlder() + "\n" +
                         "Junior/Senior: " + getAlderKatogori() + "\n" +
-                        "TlfNr: " + telNr + "\n" +
+                        "TlfNr: +45 " + telNr + "\n" +
                         "Mail: " + mail + "\n" +
                         "Oprettelsesdato: " + oprettelsesDato + "\n" +
                         "Aktiv/Passiv: " + getMedlemStatus() + "\n" +

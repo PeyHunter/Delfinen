@@ -8,7 +8,7 @@ public class Betalinger
     {
     }
 
-   // protected boolean restance;
+
     protected int medlemsKontingent;
 
 
@@ -25,23 +25,23 @@ public class Betalinger
 
         if (medlem.getMedlemStatus().equalsIgnoreCase("Aktiv"))
         {
-            // For active members, determine the membership fee based on age
+
             int alder = medlem.getAlder();
             if (medlem.getAlderKatogori().equalsIgnoreCase("Junior"))
             {
-                medlemsKontingent = 1000;  // Junior membership fee
+                medlemsKontingent = 1000;
             } else if (alder >= 60)
             {
-                medlemsKontingent = (int) (1600 * 0.75);  // 25% discount for seniors over 60
+                medlemsKontingent = (int) (1600 * 0.75);
             } else
             {
-                medlemsKontingent = 1600;  // Regular senior fee
+                medlemsKontingent = 1600;
             }
         } else
         {
-            medlemsKontingent = 500;  // Passive members pay a smaller fee
+            medlemsKontingent = 500;
         }
-        return medlemsKontingent;  // Apply discount
+        return medlemsKontingent;
     }
 
 
@@ -51,23 +51,23 @@ public class Betalinger
 
         if (medlem.getMedlemStatus().equalsIgnoreCase("Aktiv"))
         {
-            // For active members, determine the membership fee based on age
+
             int alder = medlem.getAlder();
             if (medlem.getAlderKatogori().equalsIgnoreCase("Junior"))
             {
-                restance = - 1000;  // Junior membership fee
+                restance = - 1000;
             } else if (alder >= 60)
             {
-                restance = (int) (-1600 * 0.75);  // 25% discount for seniors over 60
+                restance = (int) (-1600 * 0.75);
             } else
             {
-                restance = -1600;  // Regular senior fee
+                restance = -1600;
             }
         } else
         {
-            restance = -500;  // Passive members pay a smaller fee
+            restance = -500;
         }
-        return restance;  // Apply discount
+        return restance;
     }
 
 
