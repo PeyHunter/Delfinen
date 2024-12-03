@@ -8,9 +8,8 @@ public class Betalinger
     {
     }
 
-    protected boolean restance;
+   // protected boolean restance;
     protected int medlemsKontingent;
-
 
 
 

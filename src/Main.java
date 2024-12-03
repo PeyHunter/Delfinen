@@ -14,8 +14,13 @@ public class Main
         RestancePersistens restancePersistens = new RestancePersistens(medlemsOversigt);
         restancePersistens.writeRestancePersistens();
 
-       // System.out.println(medlemsOversigt);
+       System.out.println(medlemsOversigt);
         System.out.println(restancePersistens);
+
+        Medlem isabella = new Medlem("isabella,", new CPR("250394-2502"), 10239834, "jkldsaljk@gmail.com", LocalDate.now(), true, true, 93930, new Betalinger(12342), false);
+        System.out.println(isabella);
+
+        // public Medlem(String navn, CPR cpr, int telNr, String mail, LocalDate oprettelsesDato, boolean aktivStatus, boolean erMotionist, int medlemsId, Betalinger betalinger, boolean erRestance)
 
 
 

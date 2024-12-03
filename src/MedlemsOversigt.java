@@ -110,6 +110,4 @@ public class MedlemsOversigt
         return sb.toString();
     }
 
-
-
 }
