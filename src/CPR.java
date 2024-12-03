@@ -28,6 +28,11 @@ public class CPR
     }
 
 
+    public int getGender()
+    {
+        return Integer.parseInt(nummeret.substring(9));
+    }
+
     public String getCprNr()
     {
         return nummeret;
@@ -58,7 +63,7 @@ public class CPR
 
         int century;
 
-        // Determine the century based on the 7th digit (century indicator)
+
         if (yearPart < 24) {
             century = 2000;  // If the year part is 00-23, consider it as the 2000s
         } else {
@@ -68,7 +73,7 @@ public class CPR
 
         int year = century + yearPart;
 
-        
+
         int currentYear = LocalDate.now().getYear();
         int age = currentYear - year;
 
@@ -162,31 +167,23 @@ public class CPR
 
         LocalDate currentDate = LocalDate.now();
 
-        // Define the range for the valid birth year (10 to 100 years old)
         int minAge = 10;
         int maxAge = 100;
 
-        // Calculate the valid range of birth years
-        int minYear = currentDate.getYear() - maxAge;  // Year for the oldest person (100 years ago)
-        int maxYear = currentDate.getYear() - minAge;  // Year for the youngest person (10 years ago)
+        int minYear = currentDate.getYear() - maxAge;
+        int maxYear = currentDate.getYear() - minAge;
 
-        // Randomly generate a year within this range
         int year = minYear + random.nextInt(maxYear - minYear + 1);
 
-        // Randomly generate a month (1 to 12)
         int month = 1 + random.nextInt(12);
 
-        // Randomly generate a day (1 to 28) to avoid invalid dates
         int day = 1 + random.nextInt(28);
 
-        // Format the birthdate as DDMMYY (last 2 digits of year)
         String birthDate = String.format("%02d%02d%02d", day, month, year % 100);
 
-        // Generate a 4-digit random number for the extra part of the CPR number
         int randomDigits = random.nextInt(10000); // Random 4 digits
         String randomPart = String.format("%04d", randomDigits); // Always 4 digits
 
-        // Combine birthdate (DDMMYY) with the random part (XXXX) and a hyphen
         return birthDate + "-" + randomPart;
     }
 
