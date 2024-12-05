@@ -387,11 +387,6 @@ public class GUI extends JFrame
 
 
 
-
-
-
-
-
     private JPanel createRestanceTab() {
         JPanel panel = new JPanel(new BorderLayout());
 
@@ -514,7 +509,7 @@ public class GUI extends JFrame
     private void updateRestanceTextArea(JTextPane restanceTextPane) {
         StringBuilder sb = new StringBuilder();
 
-        // Use monospaced font for consistent alignment (like Apple's SF Mono or another monospace font)
+        // Use monospaced font for consistent alignment
         Font font = new Font("Monospaced", Font.PLAIN, 14); // You can use "SF Mono" or "Courier New" as alternatives
 
         // Create a StyledDocument for rich text formatting
@@ -524,30 +519,40 @@ public class GUI extends JFrame
         SimpleAttributeSet boldStyle = new SimpleAttributeSet();
         StyleConstants.setBold(boldStyle, true);
 
-        // Header row with consistent spacing for alignment
+        // Header row with consistent spacing for alignment, adding "Skylder"
         try {
             // Apply bold style to the header row
-            doc.insertString(doc.getLength(), String.format("%-25s %-20s %-15s %-15s %-20s\n",
-                    "Navn", "CPR", "Tlf", "Status", "Type"), boldStyle);
+            doc.insertString(doc.getLength(), String.format("%-25s %-20s %-15s %-15s %-20s %-10s\n",
+                    "Navn", "CPR", "Tlf", "Status", "Type", "Skylder"), boldStyle);
 
             // Add a line for separation (lighter color for subtle elegance)
-            doc.insertString(doc.getLength(), "-------------------------------------------------------------------------------------\n", null);
+            doc.insertString(doc.getLength(), "---------------------------------------------------------------------------------------------------------------\n", null);
 
             // Format the rows with alternating light and dark backgrounds for better readability
             boolean isEvenRow = true;
+
+            // Create an instance of Betalinger to calculate the amount owed
+            Betalinger betalinger = new Betalinger();
 
             // Iterate through all members and filter those with restance
             boolean noMembersInRestance = true;  // Flag to handle case when there are no members with restance
             for (Medlem medlem : medlemsOversigt.getMedlemmerOversigt()) {  // Assuming `medlemmer` holds all members
                 if (medlem.getRestance()) {  // Check if member is in restance (use appropriate flag or method)
                     noMembersInRestance = false;
-                    doc.insertString(doc.getLength(), String.format("%-25s %-20s %-15s %-15s %-20s\n",
+
+                    // Calculate the amount owed for the member
+                    int skylder = betalinger.udregnRestance(medlem);
+
+                    // Format member data, including "Skylder" value
+                    doc.insertString(doc.getLength(), String.format("%-25s %-20s %-15s %-15s %-20s %-10d\n",
                             medlem.navn,
                             medlem.cpr.toString(),
                             medlem.telNr,
                             medlem.getMedlemStatus(),
-                            medlem.getMedlemsType()
+                            medlem.getMedlemsType(),
+                            skylder
                     ), null);
+
                     isEvenRow = !isEvenRow;
                 }
             }

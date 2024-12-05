@@ -1,62 +1,62 @@
 LISTE OVER TRÆNERE
 
-Træner: Henrik Friis
-CPR: 270943-2457
-Telefon: +45 57538476
-Mail: henrikfriis@mail.com
-Diciplin: Butterfly
-
-Træner: Asger Petersen
-CPR: 101294-9119
-Telefon: +45 26984385
-Mail: asgerpetersen@mail.com
-Diciplin: Brystsvømning
-
-Træner: Magnus Lauridsen
-CPR: 041270-0595
-Telefon: +45 74194506
-Mail: magnuslauridsen@mail.com
-Diciplin: Brystsvømning
-
-Træner: Kasper Kristensen
-CPR: 070277-4379
-Telefon: +45 87213040
-Mail: kasperkristensen@mail.com
-Diciplin: Svømning
-
-Træner: Pia Petersen
-CPR: 110972-2046
-Telefon: +45 58868341
-Mail: piapetersen@mail.com
-Diciplin: Butterfly
-
-Træner: Birgitte Kristensen
-CPR: 190645-5004
-Telefon: +45 90226481
-Mail: birgittekristensen@mail.com
-Diciplin: Svømning
-
-Træner: Jonas Lauridsen
-CPR: 210981-6677
-Telefon: +45 55762856
-Mail: jonaslauridsen@mail.com
+Træner: Birgitte Petersen
+CPR: 160756-3098
+Telefon: +45 46757556
+Mail: birgittepetersen@mail.com
 Diciplin: Freestyle
 
-Træner: Asger Hansen
-CPR: 140958-5611
-Telefon: +45 67404612
-Mail: asgerhansen@mail.com
-Diciplin: Freestyle
-
-Træner: Birgitte Thomsen
-CPR: 260156-4782
-Telefon: +45 73168947
-Mail: birgittethomsen@mail.com
+Træner: Asger Jakobsen
+CPR: 270225-8129
+Telefon: +45 41954557
+Mail: asgerjakobsen@mail.com
 Diciplin: Rygcrawl
 
-Træner: Pia Lauridsen
-CPR: 210406-4430
-Telefon: +45 47456863
-Mail: pialauridsen@mail.com
+Træner: Asger Sørensen
+CPR: 270950-8745
+Telefon: +45 39125738
+Mail: asgersørensen@mail.com
+Diciplin: Butterfly
+
+Træner: Katrine Friis
+CPR: 270573-2220
+Telefon: +45 25899128
+Mail: katrinefriis@mail.com
+Diciplin: Freestyle
+
+Træner: Kasper Møller
+CPR: 181080-2745
+Telefon: +45 85326632
+Mail: kaspermøller@mail.com
+Diciplin: Freestyle
+
+Træner: Birgitte Bæk
+CPR: 130786-7082
+Telefon: +45 15834723
+Mail: birgittebæk@mail.com
+Diciplin: Svømning
+
+Træner: Jonas Petersen
+CPR: 231051-6669
+Telefon: +45 66005128
+Mail: jonaspetersen@mail.com
+Diciplin: Brystsvømning
+
+Træner: Lotte Petersen
+CPR: 010400-5218
+Telefon: +45 39423508
+Mail: lottepetersen@mail.com
+Diciplin: Freestyle
+
+Træner: Birgitte Møller
+CPR: 071151-1300
+Telefon: +45 69641581
+Mail: birgittemøller@mail.com
+Diciplin: Butterfly
+
+Træner: Katrine Sørensen
+CPR: 090212-4224
+Telefon: +45 73192651
+Mail: katrinesørensen@mail.com
 Diciplin: Brystsvømning
 

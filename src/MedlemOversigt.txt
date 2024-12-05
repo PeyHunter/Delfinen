@@ -132748,3 +132748,4503 @@ Aktivstatus: Passiv
 MedlemsType: Motionist
 Dato for skrivning: 05/12/2024 Tid: 13:15
 
+Navn: Carina Sorensen
+Email: carina16872@gmail.com
+TelefonNr: 76757691
+Oprettelsesdato: 20/11/2024
+MedlemsId: 1001
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Julie Madsen
+Email: julie3201@gmail.com
+TelefonNr: 58437025
+Oprettelsesdato: 05/12/2023
+MedlemsId: 1002
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mathias Kjær
+Email: mathias14445@gmail.com
+TelefonNr: 84457732
+Oprettelsesdato: 12/03/2022
+MedlemsId: 1003
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Kjær
+Email: camilla13549@gmail.com
+TelefonNr: 35865036
+Oprettelsesdato: 09/03/2023
+MedlemsId: 1004
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Søren Johansen
+Email: søren20231@gmail.com
+TelefonNr: 14752101
+Oprettelsesdato: 13/03/2023
+MedlemsId: 1005
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anders Olsen
+Email: anders15783@gmail.com
+TelefonNr: 54386682
+Oprettelsesdato: 28/08/2020
+MedlemsId: 1006
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helle Pedersen
+Email: helle997@gmail.com
+TelefonNr: 50250171
+Oprettelsesdato: 26/03/2021
+MedlemsId: 1007
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Frederik Sorensen
+Email: frederik8750@gmail.com
+TelefonNr: 83990167
+Oprettelsesdato: 13/02/2021
+MedlemsId: 1008
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mette Christensen
+Email: mette13188@gmail.com
+TelefonNr: 25746818
+Oprettelsesdato: 13/08/2020
+MedlemsId: 1009
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Kjær
+Email: sofie11514@gmail.com
+TelefonNr: 52374960
+Oprettelsesdato: 18/11/2020
+MedlemsId: 1010
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nina Olsen
+Email: nina16499@gmail.com
+TelefonNr: 35142999
+Oprettelsesdato: 09/07/2023
+MedlemsId: 1011
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Louise Buch
+Email: louise19570@gmail.com
+TelefonNr: 16263025
+Oprettelsesdato: 04/11/2023
+MedlemsId: 1012
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Mikkelsen
+Email: camilla5175@gmail.com
+TelefonNr: 49618167
+Oprettelsesdato: 09/05/2024
+MedlemsId: 1013
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: David Knudsen
+Email: david11596@gmail.com
+TelefonNr: 14917158
+Oprettelsesdato: 17/06/2023
+MedlemsId: 1014
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Julie Kjær
+Email: julie661@gmail.com
+TelefonNr: 28542525
+Oprettelsesdato: 01/01/2020
+MedlemsId: 1015
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Benjamin Nielsen
+Email: benjamin17496@gmail.com
+TelefonNr: 48698685
+Oprettelsesdato: 23/05/2020
+MedlemsId: 1016
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Olsen
+Email: thomas6989@gmail.com
+TelefonNr: 29233319
+Oprettelsesdato: 01/04/2021
+MedlemsId: 1017
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Nielsen
+Email: anna14682@gmail.com
+TelefonNr: 41844417
+Oprettelsesdato: 06/06/2022
+MedlemsId: 1018
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Johansen
+Email: carina21761@gmail.com
+TelefonNr: 20588753
+Oprettelsesdato: 20/09/2021
+MedlemsId: 1019
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sarah Berg
+Email: sarah1398@gmail.com
+TelefonNr: 60938847
+Oprettelsesdato: 13/03/2022
+MedlemsId: 1020
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Pedersen
+Email: nicklas18126@gmail.com
+TelefonNr: 75805303
+Oprettelsesdato: 04/11/2024
+MedlemsId: 1021
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Christian Poulsen
+Email: christian4277@gmail.com
+TelefonNr: 26905188
+Oprettelsesdato: 02/06/2022
+MedlemsId: 1022
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Johansen
+Email: carina3884@gmail.com
+TelefonNr: 95208566
+Oprettelsesdato: 25/08/2024
+MedlemsId: 1023
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hans Hansen
+Email: hans11960@gmail.com
+TelefonNr: 66060092
+Oprettelsesdato: 29/03/2023
+MedlemsId: 1024
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emma Jensen
+Email: emma21398@gmail.com
+TelefonNr: 50596170
+Oprettelsesdato: 15/06/2020
+MedlemsId: 1025
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mikkel Jensen
+Email: mikkel17325@gmail.com
+TelefonNr: 81535860
+Oprettelsesdato: 01/02/2022
+MedlemsId: 1026
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Christensen
+Email: lise12886@gmail.com
+TelefonNr: 41289872
+Oprettelsesdato: 14/06/2022
+MedlemsId: 1027
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Søren Nielsen
+Email: søren15182@gmail.com
+TelefonNr: 81905848
+Oprettelsesdato: 20/01/2024
+MedlemsId: 1028
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nina Madsen
+Email: nina7381@gmail.com
+TelefonNr: 76579333
+Oprettelsesdato: 03/03/2024
+MedlemsId: 1029
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Pedersen
+Email: sofie12830@gmail.com
+TelefonNr: 94771284
+Oprettelsesdato: 17/07/2023
+MedlemsId: 1030
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: David Sorensen
+Email: david17743@gmail.com
+TelefonNr: 88561925
+Oprettelsesdato: 13/05/2021
+MedlemsId: 1031
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Sorensen
+Email: sofie9242@gmail.com
+TelefonNr: 60461878
+Oprettelsesdato: 13/12/2021
+MedlemsId: 1032
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Olsen
+Email: emil11197@gmail.com
+TelefonNr: 89162636
+Oprettelsesdato: 04/03/2021
+MedlemsId: 1033
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: David Berg
+Email: david16179@gmail.com
+TelefonNr: 32906217
+Oprettelsesdato: 18/06/2022
+MedlemsId: 1034
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Poulsen
+Email: emil1189@gmail.com
+TelefonNr: 86367670
+Oprettelsesdato: 09/11/2023
+MedlemsId: 1035
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Benjamin Rasmussen
+Email: benjamin4687@gmail.com
+TelefonNr: 93722779
+Oprettelsesdato: 20/08/2020
+MedlemsId: 1036
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Kjær
+Email: carina12530@gmail.com
+TelefonNr: 71903297
+Oprettelsesdato: 12/06/2022
+MedlemsId: 1037
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Søren Larsen
+Email: søren12268@gmail.com
+TelefonNr: 57747607
+Oprettelsesdato: 15/08/2022
+MedlemsId: 1038
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: David Rasmussen
+Email: david3880@gmail.com
+TelefonNr: 62240393
+Oprettelsesdato: 15/05/2023
+MedlemsId: 1039
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Madsen
+Email: carina5769@gmail.com
+TelefonNr: 32700106
+Oprettelsesdato: 13/04/2020
+MedlemsId: 1040
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Julie Jørgensen
+Email: julie6058@gmail.com
+TelefonNr: 56054667
+Oprettelsesdato: 23/09/2023
+MedlemsId: 1041
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mathias Mikkelsen
+Email: mathias15985@gmail.com
+TelefonNr: 22101441
+Oprettelsesdato: 05/05/2021
+MedlemsId: 1042
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Madsen
+Email: simon9269@gmail.com
+TelefonNr: 93568610
+Oprettelsesdato: 29/01/2024
+MedlemsId: 1043
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Kjær
+Email: camilla10408@gmail.com
+TelefonNr: 50470568
+Oprettelsesdato: 08/11/2024
+MedlemsId: 1044
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Cecilie Buch
+Email: cecilie13760@gmail.com
+TelefonNr: 42784716
+Oprettelsesdato: 06/04/2021
+MedlemsId: 1045
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Laura Vestergaard
+Email: laura8604@gmail.com
+TelefonNr: 43850443
+Oprettelsesdato: 09/11/2023
+MedlemsId: 1046
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anders Christensen
+Email: anders3926@gmail.com
+TelefonNr: 11189156
+Oprettelsesdato: 20/06/2020
+MedlemsId: 1047
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Johansen
+Email: anna5322@gmail.com
+TelefonNr: 83136920
+Oprettelsesdato: 06/03/2020
+MedlemsId: 1048
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Nielsen
+Email: maria6968@gmail.com
+TelefonNr: 99291752
+Oprettelsesdato: 09/06/2023
+MedlemsId: 1049
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Sorensen
+Email: nicklas10547@gmail.com
+TelefonNr: 32299034
+Oprettelsesdato: 06/01/2022
+MedlemsId: 1050
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Berg
+Email: thomas11891@gmail.com
+TelefonNr: 31297460
+Oprettelsesdato: 13/10/2023
+MedlemsId: 1051
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mathias Olsen
+Email: mathias271@gmail.com
+TelefonNr: 69992447
+Oprettelsesdato: 10/11/2021
+MedlemsId: 1052
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Hansen
+Email: carina18984@gmail.com
+TelefonNr: 34879301
+Oprettelsesdato: 23/07/2024
+MedlemsId: 1053
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Søren Johansen
+Email: søren4622@gmail.com
+TelefonNr: 75560082
+Oprettelsesdato: 30/10/2020
+MedlemsId: 1054
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Christensen
+Email: thomas7878@gmail.com
+TelefonNr: 46900470
+Oprettelsesdato: 23/07/2024
+MedlemsId: 1055
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Frederik Johansen
+Email: frederik12226@gmail.com
+TelefonNr: 74114496
+Oprettelsesdato: 25/12/2023
+MedlemsId: 1056
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Berg
+Email: thomas3382@gmail.com
+TelefonNr: 33509956
+Oprettelsesdato: 12/07/2020
+MedlemsId: 1057
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Louise Knudsen
+Email: louise9335@gmail.com
+TelefonNr: 35307030
+Oprettelsesdato: 10/11/2023
+MedlemsId: 1058
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Jensen
+Email: carina16481@gmail.com
+TelefonNr: 72292428
+Oprettelsesdato: 03/02/2022
+MedlemsId: 1059
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mikkel Sorensen
+Email: mikkel4826@gmail.com
+TelefonNr: 84612544
+Oprettelsesdato: 08/05/2021
+MedlemsId: 1060
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helena Larsen
+Email: helena6754@gmail.com
+TelefonNr: 66449227
+Oprettelsesdato: 15/08/2021
+MedlemsId: 1061
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anders Larsen
+Email: anders6935@gmail.com
+TelefonNr: 17469707
+Oprettelsesdato: 23/04/2024
+MedlemsId: 1062
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anders Knudsen
+Email: anders17577@gmail.com
+TelefonNr: 37269533
+Oprettelsesdato: 21/02/2024
+MedlemsId: 1063
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Madsen
+Email: sofie13671@gmail.com
+TelefonNr: 59305314
+Oprettelsesdato: 29/03/2023
+MedlemsId: 1064
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jens Vestergaard
+Email: jens17947@gmail.com
+TelefonNr: 71257534
+Oprettelsesdato: 04/03/2021
+MedlemsId: 1065
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Poulsen
+Email: victor5304@gmail.com
+TelefonNr: 25262804
+Oprettelsesdato: 21/08/2022
+MedlemsId: 1066
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Louise Berg
+Email: louise18974@gmail.com
+TelefonNr: 14367435
+Oprettelsesdato: 09/11/2023
+MedlemsId: 1067
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hanne Rasmussen
+Email: hanne2439@gmail.com
+TelefonNr: 67215966
+Oprettelsesdato: 02/10/2022
+MedlemsId: 1068
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Jensen
+Email: emil10468@gmail.com
+TelefonNr: 71540445
+Oprettelsesdato: 05/05/2024
+MedlemsId: 1069
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Sorensen
+Email: camilla16125@gmail.com
+TelefonNr: 32784974
+Oprettelsesdato: 16/05/2020
+MedlemsId: 1070
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Vestergaard
+Email: carina3679@gmail.com
+TelefonNr: 79249508
+Oprettelsesdato: 12/09/2021
+MedlemsId: 1071
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Johansen
+Email: sofie2207@gmail.com
+TelefonNr: 15413740
+Oprettelsesdato: 29/10/2021
+MedlemsId: 1072
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Hansen
+Email: simon14624@gmail.com
+TelefonNr: 53647502
+Oprettelsesdato: 26/09/2022
+MedlemsId: 1073
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Mikkelsen
+Email: simon2931@gmail.com
+TelefonNr: 54237835
+Oprettelsesdato: 16/09/2024
+MedlemsId: 1074
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Line Johansen
+Email: line14324@gmail.com
+TelefonNr: 69314685
+Oprettelsesdato: 28/02/2021
+MedlemsId: 1075
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Karin Buch
+Email: karin14630@gmail.com
+TelefonNr: 84258075
+Oprettelsesdato: 24/08/2022
+MedlemsId: 1076
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Larsen
+Email: victor15047@gmail.com
+TelefonNr: 52310388
+Oprettelsesdato: 21/08/2020
+MedlemsId: 1077
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sarah Olsen
+Email: sarah18333@gmail.com
+TelefonNr: 12501297
+Oprettelsesdato: 14/05/2021
+MedlemsId: 1078
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Karin Hansen
+Email: karin15036@gmail.com
+TelefonNr: 41313493
+Oprettelsesdato: 24/07/2022
+MedlemsId: 1079
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Christensen
+Email: lise3382@gmail.com
+TelefonNr: 21800574
+Oprettelsesdato: 27/07/2022
+MedlemsId: 1080
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Cecilie Rasmussen
+Email: cecilie11099@gmail.com
+TelefonNr: 77728675
+Oprettelsesdato: 15/08/2021
+MedlemsId: 1081
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Hansen
+Email: thomas8178@gmail.com
+TelefonNr: 19587157
+Oprettelsesdato: 10/01/2021
+MedlemsId: 1082
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Sorensen
+Email: katrine19982@gmail.com
+TelefonNr: 31194263
+Oprettelsesdato: 02/01/2022
+MedlemsId: 1083
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Jensen
+Email: thomas18716@gmail.com
+TelefonNr: 26716799
+Oprettelsesdato: 29/08/2020
+MedlemsId: 1084
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Poulsen
+Email: victor20294@gmail.com
+TelefonNr: 31886146
+Oprettelsesdato: 17/07/2022
+MedlemsId: 1085
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mette Olsen
+Email: mette12198@gmail.com
+TelefonNr: 34218599
+Oprettelsesdato: 02/08/2024
+MedlemsId: 1086
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Buch
+Email: maria6352@gmail.com
+TelefonNr: 93332678
+Oprettelsesdato: 17/08/2022
+MedlemsId: 1087
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Larsen
+Email: lise14126@gmail.com
+TelefonNr: 68786251
+Oprettelsesdato: 07/07/2023
+MedlemsId: 1088
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Knudsen
+Email: katrine16867@gmail.com
+TelefonNr: 52490035
+Oprettelsesdato: 25/07/2021
+MedlemsId: 1089
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Knudsen
+Email: simon19536@gmail.com
+TelefonNr: 23093198
+Oprettelsesdato: 03/07/2021
+MedlemsId: 1090
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lars Sorensen
+Email: lars7814@gmail.com
+TelefonNr: 61537979
+Oprettelsesdato: 03/12/2024
+MedlemsId: 1091
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helle Nielsen
+Email: helle10430@gmail.com
+TelefonNr: 81053870
+Oprettelsesdato: 23/02/2020
+MedlemsId: 1092
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helena Christensen
+Email: helena3838@gmail.com
+TelefonNr: 45717292
+Oprettelsesdato: 23/02/2023
+MedlemsId: 1093
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Madsen
+Email: lise5282@gmail.com
+TelefonNr: 67543116
+Oprettelsesdato: 06/05/2024
+MedlemsId: 1094
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Madsen
+Email: sofie21964@gmail.com
+TelefonNr: 69925496
+Oprettelsesdato: 31/07/2022
+MedlemsId: 1095
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Christian Mikkelsen
+Email: christian15870@gmail.com
+TelefonNr: 69747626
+Oprettelsesdato: 10/05/2021
+MedlemsId: 1096
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Larsen
+Email: nicklas10049@gmail.com
+TelefonNr: 58039471
+Oprettelsesdato: 03/03/2024
+MedlemsId: 1097
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hanne Rasmussen
+Email: hanne183@gmail.com
+TelefonNr: 22749670
+Oprettelsesdato: 25/08/2021
+MedlemsId: 1098
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Ole Berg
+Email: ole2382@gmail.com
+TelefonNr: 68386306
+Oprettelsesdato: 30/10/2024
+MedlemsId: 1099
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Poulsen
+Email: carina16508@gmail.com
+TelefonNr: 91199939
+Oprettelsesdato: 03/04/2022
+MedlemsId: 1100
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Poulsen
+Email: anna16515@gmail.com
+TelefonNr: 90556481
+Oprettelsesdato: 26/02/2022
+MedlemsId: 1101
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Louise Sorensen
+Email: louise1108@gmail.com
+TelefonNr: 65676321
+Oprettelsesdato: 28/08/2021
+MedlemsId: 1102
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Nielsen
+Email: simon13011@gmail.com
+TelefonNr: 30853340
+Oprettelsesdato: 19/08/2023
+MedlemsId: 1103
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Daniel Rasmussen
+Email: daniel8446@gmail.com
+TelefonNr: 61843583
+Oprettelsesdato: 28/07/2022
+MedlemsId: 1104
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Peter Hansen
+Email: peter7536@gmail.com
+TelefonNr: 82667621
+Oprettelsesdato: 18/02/2023
+MedlemsId: 1105
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Poulsen
+Email: nicklas20559@gmail.com
+TelefonNr: 24883454
+Oprettelsesdato: 09/06/2024
+MedlemsId: 1106
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Buch
+Email: carina6083@gmail.com
+TelefonNr: 82943628
+Oprettelsesdato: 19/06/2024
+MedlemsId: 1107
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hanne Kjær
+Email: hanne19531@gmail.com
+TelefonNr: 13502816
+Oprettelsesdato: 09/11/2020
+MedlemsId: 1108
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Jensen
+Email: emil21684@gmail.com
+TelefonNr: 27153184
+Oprettelsesdato: 06/11/2020
+MedlemsId: 1109
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Johansen
+Email: nicklas348@gmail.com
+TelefonNr: 57280388
+Oprettelsesdato: 28/09/2022
+MedlemsId: 1110
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Berg
+Email: nicklas19776@gmail.com
+TelefonNr: 90332948
+Oprettelsesdato: 08/07/2023
+MedlemsId: 1111
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Benjamin Rasmussen
+Email: benjamin9895@gmail.com
+TelefonNr: 15270635
+Oprettelsesdato: 26/05/2021
+MedlemsId: 1112
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Søren Vestergaard
+Email: søren19373@gmail.com
+TelefonNr: 20277623
+Oprettelsesdato: 08/04/2022
+MedlemsId: 1113
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Benjamin Larsen
+Email: benjamin4277@gmail.com
+TelefonNr: 71046966
+Oprettelsesdato: 30/05/2020
+MedlemsId: 1114
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lars Vestergaard
+Email: lars18305@gmail.com
+TelefonNr: 91539321
+Oprettelsesdato: 20/04/2024
+MedlemsId: 1115
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Hansen
+Email: camilla3904@gmail.com
+TelefonNr: 75779364
+Oprettelsesdato: 06/12/2022
+MedlemsId: 1116
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jens Rasmussen
+Email: jens5795@gmail.com
+TelefonNr: 88074348
+Oprettelsesdato: 10/09/2024
+MedlemsId: 1117
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Mikkelsen
+Email: thomas2202@gmail.com
+TelefonNr: 40721303
+Oprettelsesdato: 25/12/2021
+MedlemsId: 1118
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hans Johansen
+Email: hans10694@gmail.com
+TelefonNr: 41242687
+Oprettelsesdato: 21/12/2021
+MedlemsId: 1119
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Olsen
+Email: nicklas12843@gmail.com
+TelefonNr: 72057359
+Oprettelsesdato: 01/06/2022
+MedlemsId: 1120
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Daniel Rasmussen
+Email: daniel7165@gmail.com
+TelefonNr: 60299267
+Oprettelsesdato: 21/01/2021
+MedlemsId: 1121
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Christian Pedersen
+Email: christian7765@gmail.com
+TelefonNr: 66842910
+Oprettelsesdato: 05/03/2022
+MedlemsId: 1122
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maja Nielsen
+Email: maja918@gmail.com
+TelefonNr: 79133659
+Oprettelsesdato: 04/02/2022
+MedlemsId: 1123
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sarah Olsen
+Email: sarah17656@gmail.com
+TelefonNr: 69008704
+Oprettelsesdato: 20/01/2024
+MedlemsId: 1124
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Peter Hansen
+Email: peter17761@gmail.com
+TelefonNr: 91616534
+Oprettelsesdato: 12/11/2023
+MedlemsId: 1125
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Madsen
+Email: emil15302@gmail.com
+TelefonNr: 47601613
+Oprettelsesdato: 13/05/2022
+MedlemsId: 1126
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Louise Buch
+Email: louise17203@gmail.com
+TelefonNr: 26746051
+Oprettelsesdato: 22/05/2020
+MedlemsId: 1127
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Jørgensen
+Email: nicklas3899@gmail.com
+TelefonNr: 74220796
+Oprettelsesdato: 06/09/2022
+MedlemsId: 1128
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Benjamin Knudsen
+Email: benjamin36@gmail.com
+TelefonNr: 91138920
+Oprettelsesdato: 02/03/2022
+MedlemsId: 1129
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Andreas Christensen
+Email: andreas6245@gmail.com
+TelefonNr: 66845473
+Oprettelsesdato: 08/09/2020
+MedlemsId: 1130
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jacob Buch
+Email: jacob6738@gmail.com
+TelefonNr: 17785260
+Oprettelsesdato: 29/01/2021
+MedlemsId: 1131
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Madsen
+Email: nicklas22180@gmail.com
+TelefonNr: 73852853
+Oprettelsesdato: 29/07/2024
+MedlemsId: 1132
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maja Johansen
+Email: maja2137@gmail.com
+TelefonNr: 49483477
+Oprettelsesdato: 07/05/2020
+MedlemsId: 1133
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Sorensen
+Email: maria17646@gmail.com
+TelefonNr: 98094669
+Oprettelsesdato: 07/05/2023
+MedlemsId: 1134
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Ole Poulsen
+Email: ole88@gmail.com
+TelefonNr: 44836938
+Oprettelsesdato: 12/04/2021
+MedlemsId: 1135
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Johansen
+Email: lise11137@gmail.com
+TelefonNr: 28727969
+Oprettelsesdato: 23/03/2020
+MedlemsId: 1136
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lars Poulsen
+Email: lars19193@gmail.com
+TelefonNr: 96031249
+Oprettelsesdato: 15/10/2023
+MedlemsId: 1137
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Sorensen
+Email: emil20066@gmail.com
+TelefonNr: 83242757
+Oprettelsesdato: 04/12/2020
+MedlemsId: 1138
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helle Andersen
+Email: helle4527@gmail.com
+TelefonNr: 48437201
+Oprettelsesdato: 17/05/2022
+MedlemsId: 1139
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hans Sorensen
+Email: hans4195@gmail.com
+TelefonNr: 86025842
+Oprettelsesdato: 22/06/2020
+MedlemsId: 1140
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Benjamin Olsen
+Email: benjamin5086@gmail.com
+TelefonNr: 37843409
+Oprettelsesdato: 18/01/2024
+MedlemsId: 1141
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mathias Poulsen
+Email: mathias8385@gmail.com
+TelefonNr: 14481790
+Oprettelsesdato: 22/05/2021
+MedlemsId: 1142
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Kjær
+Email: victor9820@gmail.com
+TelefonNr: 68647670
+Oprettelsesdato: 29/10/2024
+MedlemsId: 1143
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Ole Andersen
+Email: ole7148@gmail.com
+TelefonNr: 12988382
+Oprettelsesdato: 25/02/2024
+MedlemsId: 1144
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helena Andersen
+Email: helena10165@gmail.com
+TelefonNr: 42814535
+Oprettelsesdato: 10/09/2022
+MedlemsId: 1145
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Buch
+Email: camilla16197@gmail.com
+TelefonNr: 14285802
+Oprettelsesdato: 09/04/2024
+MedlemsId: 1146
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Andreas Buch
+Email: andreas4447@gmail.com
+TelefonNr: 16735339
+Oprettelsesdato: 21/01/2024
+MedlemsId: 1147
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Knudsen
+Email: carina288@gmail.com
+TelefonNr: 35162136
+Oprettelsesdato: 14/05/2021
+MedlemsId: 1148
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Olsen
+Email: lise5532@gmail.com
+TelefonNr: 71990953
+Oprettelsesdato: 27/10/2023
+MedlemsId: 1149
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mikkel Christensen
+Email: mikkel19930@gmail.com
+TelefonNr: 41834751
+Oprettelsesdato: 02/12/2021
+MedlemsId: 1150
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emma Buch
+Email: emma14561@gmail.com
+TelefonNr: 38182758
+Oprettelsesdato: 09/09/2023
+MedlemsId: 1151
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Mikkelsen
+Email: carina4875@gmail.com
+TelefonNr: 93377236
+Oprettelsesdato: 03/10/2022
+MedlemsId: 1152
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Christensen
+Email: sofie13272@gmail.com
+TelefonNr: 47900970
+Oprettelsesdato: 05/06/2022
+MedlemsId: 1153
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mathias Mikkelsen
+Email: mathias22042@gmail.com
+TelefonNr: 22464112
+Oprettelsesdato: 19/09/2023
+MedlemsId: 1154
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Karin Kjær
+Email: karin6346@gmail.com
+TelefonNr: 48188570
+Oprettelsesdato: 12/12/2019
+MedlemsId: 1155
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Benjamin Poulsen
+Email: benjamin709@gmail.com
+TelefonNr: 55263175
+Oprettelsesdato: 22/03/2020
+MedlemsId: 1156
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Hansen
+Email: camilla8821@gmail.com
+TelefonNr: 44566526
+Oprettelsesdato: 23/09/2021
+MedlemsId: 1157
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Cecilie Johansen
+Email: cecilie17155@gmail.com
+TelefonNr: 76202097
+Oprettelsesdato: 04/07/2024
+MedlemsId: 1158
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Berg
+Email: thomas6845@gmail.com
+TelefonNr: 88563771
+Oprettelsesdato: 13/02/2023
+MedlemsId: 1159
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Julie Olsen
+Email: julie11434@gmail.com
+TelefonNr: 42984739
+Oprettelsesdato: 28/08/2024
+MedlemsId: 1160
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Christian Madsen
+Email: christian5264@gmail.com
+TelefonNr: 73330521
+Oprettelsesdato: 05/06/2023
+MedlemsId: 1161
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helena Hansen
+Email: helena18437@gmail.com
+TelefonNr: 29136310
+Oprettelsesdato: 14/01/2022
+MedlemsId: 1162
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jacob Hansen
+Email: jacob15538@gmail.com
+TelefonNr: 62151037
+Oprettelsesdato: 05/07/2022
+MedlemsId: 1163
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Jørgensen
+Email: simon12734@gmail.com
+TelefonNr: 82998430
+Oprettelsesdato: 07/04/2022
+MedlemsId: 1164
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Johansen
+Email: sofie12362@gmail.com
+TelefonNr: 25659887
+Oprettelsesdato: 09/01/2024
+MedlemsId: 1165
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Jørgensen
+Email: katrine8838@gmail.com
+TelefonNr: 61547891
+Oprettelsesdato: 08/05/2024
+MedlemsId: 1166
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Peter Christensen
+Email: peter7051@gmail.com
+TelefonNr: 31156117
+Oprettelsesdato: 29/01/2020
+MedlemsId: 1167
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hanne Buch
+Email: hanne14249@gmail.com
+TelefonNr: 89578091
+Oprettelsesdato: 22/03/2020
+MedlemsId: 1168
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Ole Nielsen
+Email: ole15957@gmail.com
+TelefonNr: 91502709
+Oprettelsesdato: 27/09/2021
+MedlemsId: 1169
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Knudsen
+Email: sofie3804@gmail.com
+TelefonNr: 76227932
+Oprettelsesdato: 11/11/2022
+MedlemsId: 1170
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helle Jørgensen
+Email: helle7504@gmail.com
+TelefonNr: 12806069
+Oprettelsesdato: 07/10/2021
+MedlemsId: 1171
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Larsen
+Email: emil4569@gmail.com
+TelefonNr: 82877374
+Oprettelsesdato: 17/12/2020
+MedlemsId: 1172
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lars Rasmussen
+Email: lars5643@gmail.com
+TelefonNr: 97268253
+Oprettelsesdato: 28/07/2021
+MedlemsId: 1173
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mikkel Buch
+Email: mikkel8107@gmail.com
+TelefonNr: 36077734
+Oprettelsesdato: 05/07/2024
+MedlemsId: 1174
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maja Vestergaard
+Email: maja1319@gmail.com
+TelefonNr: 11697555
+Oprettelsesdato: 29/07/2023
+MedlemsId: 1175
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Daniel Hansen
+Email: daniel11798@gmail.com
+TelefonNr: 50565195
+Oprettelsesdato: 20/12/2023
+MedlemsId: 1176
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Larsen
+Email: victor4836@gmail.com
+TelefonNr: 51877405
+Oprettelsesdato: 26/07/2023
+MedlemsId: 1177
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Pedersen
+Email: sofie1253@gmail.com
+TelefonNr: 84603908
+Oprettelsesdato: 29/09/2021
+MedlemsId: 1178
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emma Rasmussen
+Email: emma21046@gmail.com
+TelefonNr: 91857506
+Oprettelsesdato: 25/05/2022
+MedlemsId: 1179
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Mikkelsen
+Email: lise8434@gmail.com
+TelefonNr: 24325062
+Oprettelsesdato: 26/12/2022
+MedlemsId: 1180
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sarah Jensen
+Email: sarah20042@gmail.com
+TelefonNr: 92239784
+Oprettelsesdato: 14/10/2024
+MedlemsId: 1181
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Cecilie Nielsen
+Email: cecilie18312@gmail.com
+TelefonNr: 42615882
+Oprettelsesdato: 22/09/2022
+MedlemsId: 1182
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helena Hansen
+Email: helena19518@gmail.com
+TelefonNr: 86864041
+Oprettelsesdato: 30/08/2023
+MedlemsId: 1183
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Daniel Mikkelsen
+Email: daniel15603@gmail.com
+TelefonNr: 86354939
+Oprettelsesdato: 11/11/2024
+MedlemsId: 1184
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mikkel Vestergaard
+Email: mikkel13988@gmail.com
+TelefonNr: 42208813
+Oprettelsesdato: 01/03/2022
+MedlemsId: 1185
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Cecilie Pedersen
+Email: cecilie7812@gmail.com
+TelefonNr: 70714636
+Oprettelsesdato: 06/08/2021
+MedlemsId: 1186
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helle Olsen
+Email: helle4232@gmail.com
+TelefonNr: 20024712
+Oprettelsesdato: 06/04/2023
+MedlemsId: 1187
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Pedersen
+Email: carina18604@gmail.com
+TelefonNr: 99644274
+Oprettelsesdato: 10/12/2021
+MedlemsId: 1188
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mikkel Pedersen
+Email: mikkel21856@gmail.com
+TelefonNr: 25825341
+Oprettelsesdato: 10/11/2021
+MedlemsId: 1189
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Sorensen
+Email: simon8688@gmail.com
+TelefonNr: 20328768
+Oprettelsesdato: 08/08/2022
+MedlemsId: 1190
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Cecilie Vestergaard
+Email: cecilie11387@gmail.com
+TelefonNr: 10476785
+Oprettelsesdato: 08/02/2020
+MedlemsId: 1191
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jens Christensen
+Email: jens8545@gmail.com
+TelefonNr: 28750134
+Oprettelsesdato: 02/11/2020
+MedlemsId: 1192
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Daniel Christensen
+Email: daniel18245@gmail.com
+TelefonNr: 20860087
+Oprettelsesdato: 21/09/2020
+MedlemsId: 1193
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Cecilie Mikkelsen
+Email: cecilie15123@gmail.com
+TelefonNr: 99236144
+Oprettelsesdato: 25/08/2024
+MedlemsId: 1194
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jens Berg
+Email: jens7686@gmail.com
+TelefonNr: 92450511
+Oprettelsesdato: 21/02/2021
+MedlemsId: 1195
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Karin Olsen
+Email: karin12624@gmail.com
+TelefonNr: 74701696
+Oprettelsesdato: 31/12/2019
+MedlemsId: 1196
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Jensen
+Email: sofie12401@gmail.com
+TelefonNr: 27622310
+Oprettelsesdato: 26/04/2024
+MedlemsId: 1197
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Christensen
+Email: emil19111@gmail.com
+TelefonNr: 29436768
+Oprettelsesdato: 12/08/2024
+MedlemsId: 1198
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Buch
+Email: camilla13891@gmail.com
+TelefonNr: 50891975
+Oprettelsesdato: 27/04/2023
+MedlemsId: 1199
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Sorensen
+Email: maria5581@gmail.com
+TelefonNr: 46220844
+Oprettelsesdato: 14/09/2022
+MedlemsId: 1200
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Karin Rasmussen
+Email: karin6896@gmail.com
+TelefonNr: 36633308
+Oprettelsesdato: 29/10/2021
+MedlemsId: 1201
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Mikkelsen
+Email: lise3372@gmail.com
+TelefonNr: 46663645
+Oprettelsesdato: 01/03/2022
+MedlemsId: 1202
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Jørgensen
+Email: lise9352@gmail.com
+TelefonNr: 58666672
+Oprettelsesdato: 15/01/2024
+MedlemsId: 1203
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hanne Nielsen
+Email: hanne12509@gmail.com
+TelefonNr: 12554255
+Oprettelsesdato: 26/12/2020
+MedlemsId: 1204
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sarah Mikkelsen
+Email: sarah3667@gmail.com
+TelefonNr: 13523501
+Oprettelsesdato: 13/05/2021
+MedlemsId: 1205
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nina Pedersen
+Email: nina16813@gmail.com
+TelefonNr: 38579067
+Oprettelsesdato: 14/12/2021
+MedlemsId: 1206
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Vestergaard
+Email: victor4626@gmail.com
+TelefonNr: 17211231
+Oprettelsesdato: 30/10/2022
+MedlemsId: 1207
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Laura Sorensen
+Email: laura15485@gmail.com
+TelefonNr: 32724220
+Oprettelsesdato: 27/05/2020
+MedlemsId: 1208
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: David Larsen
+Email: david5906@gmail.com
+TelefonNr: 23840337
+Oprettelsesdato: 20/10/2020
+MedlemsId: 1209
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Søren Berg
+Email: søren19673@gmail.com
+TelefonNr: 42716359
+Oprettelsesdato: 30/06/2022
+MedlemsId: 1210
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jens Larsen
+Email: jens6544@gmail.com
+TelefonNr: 60989027
+Oprettelsesdato: 31/07/2021
+MedlemsId: 1211
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Benjamin Knudsen
+Email: benjamin15249@gmail.com
+TelefonNr: 49825513
+Oprettelsesdato: 14/03/2021
+MedlemsId: 1212
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emma Hansen
+Email: emma22020@gmail.com
+TelefonNr: 46742030
+Oprettelsesdato: 15/06/2023
+MedlemsId: 1213
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Søren Sorensen
+Email: søren4319@gmail.com
+TelefonNr: 36738108
+Oprettelsesdato: 27/10/2020
+MedlemsId: 1214
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Andersen
+Email: katrine21078@gmail.com
+TelefonNr: 54361163
+Oprettelsesdato: 11/08/2024
+MedlemsId: 1215
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Madsen
+Email: katrine21666@gmail.com
+TelefonNr: 36528201
+Oprettelsesdato: 06/03/2022
+MedlemsId: 1216
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Julie Kjær
+Email: julie20809@gmail.com
+TelefonNr: 72947123
+Oprettelsesdato: 28/03/2023
+MedlemsId: 1217
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helle Jørgensen
+Email: helle4083@gmail.com
+TelefonNr: 79893049
+Oprettelsesdato: 27/03/2024
+MedlemsId: 1218
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Olsen
+Email: victor7094@gmail.com
+TelefonNr: 97564285
+Oprettelsesdato: 29/03/2024
+MedlemsId: 1219
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helena Nielsen
+Email: helena20072@gmail.com
+TelefonNr: 71464404
+Oprettelsesdato: 17/06/2022
+MedlemsId: 1220
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Buch
+Email: camilla17365@gmail.com
+TelefonNr: 81911171
+Oprettelsesdato: 28/08/2023
+MedlemsId: 1221
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Mikkelsen
+Email: emil17371@gmail.com
+TelefonNr: 95506946
+Oprettelsesdato: 19/02/2022
+MedlemsId: 1222
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Johansen
+Email: camilla12661@gmail.com
+TelefonNr: 67499196
+Oprettelsesdato: 31/07/2022
+MedlemsId: 1223
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mette Jensen
+Email: mette15342@gmail.com
+TelefonNr: 43074893
+Oprettelsesdato: 27/10/2021
+MedlemsId: 1224
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Cecilie Olsen
+Email: cecilie20673@gmail.com
+TelefonNr: 47395266
+Oprettelsesdato: 27/09/2021
+MedlemsId: 1225
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Laura Johansen
+Email: laura5323@gmail.com
+TelefonNr: 77444828
+Oprettelsesdato: 10/07/2020
+MedlemsId: 1226
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jacob Madsen
+Email: jacob4482@gmail.com
+TelefonNr: 62363468
+Oprettelsesdato: 28/08/2024
+MedlemsId: 1227
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Madsen
+Email: carina1688@gmail.com
+TelefonNr: 86350200
+Oprettelsesdato: 12/12/2022
+MedlemsId: 1228
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Madsen
+Email: anna19546@gmail.com
+TelefonNr: 96105140
+Oprettelsesdato: 09/08/2022
+MedlemsId: 1229
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emma Olsen
+Email: emma8034@gmail.com
+TelefonNr: 61315722
+Oprettelsesdato: 26/07/2022
+MedlemsId: 1230
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Berg
+Email: victor4581@gmail.com
+TelefonNr: 66272498
+Oprettelsesdato: 21/07/2020
+MedlemsId: 1231
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Frederik Madsen
+Email: frederik663@gmail.com
+TelefonNr: 41653273
+Oprettelsesdato: 12/07/2021
+MedlemsId: 1232
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Sorensen
+Email: maria1826@gmail.com
+TelefonNr: 24213278
+Oprettelsesdato: 02/01/2024
+MedlemsId: 1233
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Knudsen
+Email: katrine4413@gmail.com
+TelefonNr: 94512208
+Oprettelsesdato: 01/08/2021
+MedlemsId: 1234
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Christian Berg
+Email: christian13478@gmail.com
+TelefonNr: 58765297
+Oprettelsesdato: 19/12/2022
+MedlemsId: 1235
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Poulsen
+Email: sofie18186@gmail.com
+TelefonNr: 84607605
+Oprettelsesdato: 10/07/2022
+MedlemsId: 1236
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Laura Larsen
+Email: laura6875@gmail.com
+TelefonNr: 86351075
+Oprettelsesdato: 19/02/2020
+MedlemsId: 1237
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Hansen
+Email: sofie3058@gmail.com
+TelefonNr: 74953736
+Oprettelsesdato: 25/04/2023
+MedlemsId: 1238
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Christian Nielsen
+Email: christian12932@gmail.com
+TelefonNr: 18464390
+Oprettelsesdato: 29/04/2022
+MedlemsId: 1239
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Line Andersen
+Email: line20925@gmail.com
+TelefonNr: 21586939
+Oprettelsesdato: 20/02/2024
+MedlemsId: 1240
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nina Johansen
+Email: nina5751@gmail.com
+TelefonNr: 44770685
+Oprettelsesdato: 22/03/2020
+MedlemsId: 1241
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mathias Kjær
+Email: mathias1958@gmail.com
+TelefonNr: 57329299
+Oprettelsesdato: 20/10/2021
+MedlemsId: 1242
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hanne Olsen
+Email: hanne20043@gmail.com
+TelefonNr: 18335110
+Oprettelsesdato: 22/06/2024
+MedlemsId: 1243
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Frederik Nielsen
+Email: frederik16123@gmail.com
+TelefonNr: 32211232
+Oprettelsesdato: 02/01/2023
+MedlemsId: 1244
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Frederik Jensen
+Email: frederik7319@gmail.com
+TelefonNr: 46772462
+Oprettelsesdato: 23/12/2021
+MedlemsId: 1245
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Knudsen
+Email: emil19580@gmail.com
+TelefonNr: 25983614
+Oprettelsesdato: 08/09/2021
+MedlemsId: 1246
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Karin Olsen
+Email: karin21211@gmail.com
+TelefonNr: 91568801
+Oprettelsesdato: 25/10/2024
+MedlemsId: 1247
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Christian Vestergaard
+Email: christian20011@gmail.com
+TelefonNr: 35818025
+Oprettelsesdato: 24/10/2023
+MedlemsId: 1248
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Peter Sorensen
+Email: peter4571@gmail.com
+TelefonNr: 92663724
+Oprettelsesdato: 26/04/2021
+MedlemsId: 1249
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Vestergaard
+Email: camilla6402@gmail.com
+TelefonNr: 23115711
+Oprettelsesdato: 10/04/2024
+MedlemsId: 1250
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maja Olsen
+Email: maja1088@gmail.com
+TelefonNr: 11081650
+Oprettelsesdato: 01/02/2024
+MedlemsId: 1001
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mette Knudsen
+Email: mette19404@gmail.com
+TelefonNr: 96665205
+Oprettelsesdato: 15/02/2022
+MedlemsId: 1002
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Andreas Kjær
+Email: andreas12496@gmail.com
+TelefonNr: 99765066
+Oprettelsesdato: 02/07/2022
+MedlemsId: 1003
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Madsen
+Email: nicklas14140@gmail.com
+TelefonNr: 52807225
+Oprettelsesdato: 29/07/2021
+MedlemsId: 1004
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mathias Knudsen
+Email: mathias12919@gmail.com
+TelefonNr: 59708216
+Oprettelsesdato: 31/01/2022
+MedlemsId: 1005
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Daniel Larsen
+Email: daniel7799@gmail.com
+TelefonNr: 42442023
+Oprettelsesdato: 04/07/2021
+MedlemsId: 1006
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Poulsen
+Email: maria2851@gmail.com
+TelefonNr: 59775919
+Oprettelsesdato: 21/09/2020
+MedlemsId: 1007
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Karin Christensen
+Email: karin14996@gmail.com
+TelefonNr: 20288101
+Oprettelsesdato: 06/09/2020
+MedlemsId: 1008
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Knudsen
+Email: carina19815@gmail.com
+TelefonNr: 60279686
+Oprettelsesdato: 20/08/2024
+MedlemsId: 1009
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emma Jørgensen
+Email: emma7482@gmail.com
+TelefonNr: 37265211
+Oprettelsesdato: 16/04/2023
+MedlemsId: 1010
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Poulsen
+Email: camilla5846@gmail.com
+TelefonNr: 27255713
+Oprettelsesdato: 12/01/2023
+MedlemsId: 1011
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jacob Vestergaard
+Email: jacob9086@gmail.com
+TelefonNr: 15320205
+Oprettelsesdato: 13/02/2024
+MedlemsId: 1012
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maja Larsen
+Email: maja11551@gmail.com
+TelefonNr: 40595171
+Oprettelsesdato: 28/09/2020
+MedlemsId: 1013
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Sorensen
+Email: maria6048@gmail.com
+TelefonNr: 39501697
+Oprettelsesdato: 16/08/2023
+MedlemsId: 1014
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mikkel Madsen
+Email: mikkel21194@gmail.com
+TelefonNr: 64733731
+Oprettelsesdato: 31/05/2023
+MedlemsId: 1015
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Julie Christensen
+Email: julie6198@gmail.com
+TelefonNr: 81773225
+Oprettelsesdato: 04/09/2023
+MedlemsId: 1016
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Sorensen
+Email: maria2921@gmail.com
+TelefonNr: 97522005
+Oprettelsesdato: 10/12/2020
+MedlemsId: 1017
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Buch
+Email: carina9034@gmail.com
+TelefonNr: 42421130
+Oprettelsesdato: 25/01/2023
+MedlemsId: 1018
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maja Johansen
+Email: maja11250@gmail.com
+TelefonNr: 49879566
+Oprettelsesdato: 22/10/2024
+MedlemsId: 1019
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Berg
+Email: lise19308@gmail.com
+TelefonNr: 25912008
+Oprettelsesdato: 12/05/2022
+MedlemsId: 1020
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Frederik Larsen
+Email: frederik923@gmail.com
+TelefonNr: 36740354
+Oprettelsesdato: 28/09/2022
+MedlemsId: 1021
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Line Kjær
+Email: line174@gmail.com
+TelefonNr: 61994279
+Oprettelsesdato: 20/10/2020
+MedlemsId: 1022
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lars Jensen
+Email: lars9613@gmail.com
+TelefonNr: 61575045
+Oprettelsesdato: 25/07/2022
+MedlemsId: 1023
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Andreas Buch
+Email: andreas12471@gmail.com
+TelefonNr: 94145676
+Oprettelsesdato: 31/10/2024
+MedlemsId: 1024
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hans Poulsen
+Email: hans9000@gmail.com
+TelefonNr: 33925901
+Oprettelsesdato: 25/12/2019
+MedlemsId: 1025
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Louise Johansen
+Email: louise4653@gmail.com
+TelefonNr: 95623164
+Oprettelsesdato: 19/10/2023
+MedlemsId: 1026
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jacob Sorensen
+Email: jacob1505@gmail.com
+TelefonNr: 91363281
+Oprettelsesdato: 28/07/2023
+MedlemsId: 1027
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Julie Olsen
+Email: julie892@gmail.com
+TelefonNr: 22293717
+Oprettelsesdato: 11/04/2021
+MedlemsId: 1028
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nina Rasmussen
+Email: nina4633@gmail.com
+TelefonNr: 60471739
+Oprettelsesdato: 25/09/2022
+MedlemsId: 1029
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helle Buch
+Email: helle5735@gmail.com
+TelefonNr: 61547900
+Oprettelsesdato: 30/06/2022
+MedlemsId: 1030
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Frederik Rasmussen
+Email: frederik20324@gmail.com
+TelefonNr: 86562512
+Oprettelsesdato: 13/12/2020
+MedlemsId: 1031
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Mikkelsen
+Email: simon4845@gmail.com
+TelefonNr: 87774567
+Oprettelsesdato: 01/10/2020
+MedlemsId: 1032
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Frederik Poulsen
+Email: frederik169@gmail.com
+TelefonNr: 24383788
+Oprettelsesdato: 29/04/2021
+MedlemsId: 1033
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Poulsen
+Email: thomas11977@gmail.com
+TelefonNr: 86410370
+Oprettelsesdato: 11/07/2021
+MedlemsId: 1034
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maja Pedersen
+Email: maja5827@gmail.com
+TelefonNr: 71602312
+Oprettelsesdato: 09/04/2024
+MedlemsId: 1035
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Poulsen
+Email: nicklas4958@gmail.com
+TelefonNr: 80314071
+Oprettelsesdato: 30/06/2023
+MedlemsId: 1036
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Olsen
+Email: camilla14068@gmail.com
+TelefonNr: 59947712
+Oprettelsesdato: 21/12/2019
+MedlemsId: 1037
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hanne Mikkelsen
+Email: hanne9796@gmail.com
+TelefonNr: 79586320
+Oprettelsesdato: 25/09/2022
+MedlemsId: 1038
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Søren Poulsen
+Email: søren19506@gmail.com
+TelefonNr: 76290509
+Oprettelsesdato: 17/09/2022
+MedlemsId: 1039
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Julie Larsen
+Email: julie8878@gmail.com
+TelefonNr: 11289463
+Oprettelsesdato: 24/12/2022
+MedlemsId: 1040
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mathias Johansen
+Email: mathias15825@gmail.com
+TelefonNr: 21391178
+Oprettelsesdato: 18/04/2023
+MedlemsId: 1041
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Buch
+Email: nicklas5090@gmail.com
+TelefonNr: 94668792
+Oprettelsesdato: 27/07/2022
+MedlemsId: 1042
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Andreas Larsen
+Email: andreas18822@gmail.com
+TelefonNr: 48804594
+Oprettelsesdato: 05/08/2020
+MedlemsId: 1043
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Daniel Vestergaard
+Email: daniel8283@gmail.com
+TelefonNr: 53758877
+Oprettelsesdato: 27/03/2020
+MedlemsId: 1044
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Line Buch
+Email: line7429@gmail.com
+TelefonNr: 55811486
+Oprettelsesdato: 16/12/2023
+MedlemsId: 1045
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Ole Kjær
+Email: ole13047@gmail.com
+TelefonNr: 41227665
+Oprettelsesdato: 10/11/2024
+MedlemsId: 1046
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Buch
+Email: camilla13952@gmail.com
+TelefonNr: 87504971
+Oprettelsesdato: 15/08/2021
+MedlemsId: 1047
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mette Hansen
+Email: mette2146@gmail.com
+TelefonNr: 92123421
+Oprettelsesdato: 16/03/2022
+MedlemsId: 1048
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Frederik Johansen
+Email: frederik14486@gmail.com
+TelefonNr: 54482065
+Oprettelsesdato: 24/05/2021
+MedlemsId: 1049
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Daniel Pedersen
+Email: daniel10040@gmail.com
+TelefonNr: 39955500
+Oprettelsesdato: 08/11/2022
+MedlemsId: 1050
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Berg
+Email: anna22056@gmail.com
+TelefonNr: 11657260
+Oprettelsesdato: 30/12/2020
+MedlemsId: 1051
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Nielsen
+Email: thomas20518@gmail.com
+TelefonNr: 64934090
+Oprettelsesdato: 12/11/2022
+MedlemsId: 1052
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Andersen
+Email: thomas8366@gmail.com
+TelefonNr: 59938935
+Oprettelsesdato: 13/02/2021
+MedlemsId: 1053
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Christensen
+Email: katrine16212@gmail.com
+TelefonNr: 70607136
+Oprettelsesdato: 16/10/2024
+MedlemsId: 1054
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Mikkelsen
+Email: simon19385@gmail.com
+TelefonNr: 84478443
+Oprettelsesdato: 19/10/2022
+MedlemsId: 1055
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jacob Hansen
+Email: jacob9187@gmail.com
+TelefonNr: 82526840
+Oprettelsesdato: 12/03/2024
+MedlemsId: 1056
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Berg
+Email: sofie5986@gmail.com
+TelefonNr: 97360034
+Oprettelsesdato: 02/03/2022
+MedlemsId: 1057
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Søren Kjær
+Email: søren2378@gmail.com
+TelefonNr: 26409406
+Oprettelsesdato: 29/04/2023
+MedlemsId: 1058
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Madsen
+Email: maria5467@gmail.com
+TelefonNr: 99993945
+Oprettelsesdato: 17/09/2024
+MedlemsId: 1059
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Christensen
+Email: anna14920@gmail.com
+TelefonNr: 20580476
+Oprettelsesdato: 19/09/2020
+MedlemsId: 1060
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nina Pedersen
+Email: nina20245@gmail.com
+TelefonNr: 26561001
+Oprettelsesdato: 18/09/2023
+MedlemsId: 1061
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hanne Knudsen
+Email: hanne266@gmail.com
+TelefonNr: 21460828
+Oprettelsesdato: 11/06/2023
+MedlemsId: 1062
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Knudsen
+Email: katrine5049@gmail.com
+TelefonNr: 85307940
+Oprettelsesdato: 10/12/2023
+MedlemsId: 1063
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helena Madsen
+Email: helena4542@gmail.com
+TelefonNr: 47242591
+Oprettelsesdato: 23/05/2023
+MedlemsId: 1064
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Cecilie Nielsen
+Email: cecilie7150@gmail.com
+TelefonNr: 16122689
+Oprettelsesdato: 31/01/2022
+MedlemsId: 1065
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Christensen
+Email: katrine6617@gmail.com
+TelefonNr: 47019680
+Oprettelsesdato: 15/06/2023
+MedlemsId: 1066
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Ole Larsen
+Email: ole3203@gmail.com
+TelefonNr: 43323268
+Oprettelsesdato: 29/06/2024
+MedlemsId: 1067
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helle Olsen
+Email: helle7738@gmail.com
+TelefonNr: 26220519
+Oprettelsesdato: 20/11/2024
+MedlemsId: 1068
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mikkel Andersen
+Email: mikkel8769@gmail.com
+TelefonNr: 94186740
+Oprettelsesdato: 23/09/2023
+MedlemsId: 1069
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helena Poulsen
+Email: helena13795@gmail.com
+TelefonNr: 90362699
+Oprettelsesdato: 15/05/2024
+MedlemsId: 1070
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Ole Knudsen
+Email: ole11279@gmail.com
+TelefonNr: 75504059
+Oprettelsesdato: 28/04/2020
+MedlemsId: 1071
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helena Knudsen
+Email: helena11986@gmail.com
+TelefonNr: 77955975
+Oprettelsesdato: 31/08/2022
+MedlemsId: 1072
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jens Poulsen
+Email: jens7744@gmail.com
+TelefonNr: 17866274
+Oprettelsesdato: 05/01/2020
+MedlemsId: 1073
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Vestergaard
+Email: maria16514@gmail.com
+TelefonNr: 18580722
+Oprettelsesdato: 02/07/2020
+MedlemsId: 1074
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Ole Larsen
+Email: ole7244@gmail.com
+TelefonNr: 85625743
+Oprettelsesdato: 11/08/2020
+MedlemsId: 1075
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Nielsen
+Email: thomas9468@gmail.com
+TelefonNr: 48795268
+Oprettelsesdato: 13/11/2022
+MedlemsId: 1076
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Nielsen
+Email: anna16669@gmail.com
+TelefonNr: 69374477
+Oprettelsesdato: 25/08/2022
+MedlemsId: 1077
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: David Vestergaard
+Email: david19225@gmail.com
+TelefonNr: 56182360
+Oprettelsesdato: 08/07/2020
+MedlemsId: 1078
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jacob Mikkelsen
+Email: jacob139@gmail.com
+TelefonNr: 15437508
+Oprettelsesdato: 24/03/2024
+MedlemsId: 1079
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: David Larsen
+Email: david15155@gmail.com
+TelefonNr: 99500835
+Oprettelsesdato: 11/09/2023
+MedlemsId: 1080
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Rasmussen
+Email: sofie13865@gmail.com
+TelefonNr: 38390395
+Oprettelsesdato: 27/10/2020
+MedlemsId: 1081
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: David Jørgensen
+Email: david1531@gmail.com
+TelefonNr: 26674497
+Oprettelsesdato: 11/10/2020
+MedlemsId: 1082
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Andersen
+Email: emil1313@gmail.com
+TelefonNr: 51735580
+Oprettelsesdato: 24/06/2022
+MedlemsId: 1083
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nina Mikkelsen
+Email: nina818@gmail.com
+TelefonNr: 32064424
+Oprettelsesdato: 03/03/2023
+MedlemsId: 1084
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Daniel Jensen
+Email: daniel3906@gmail.com
+TelefonNr: 81979055
+Oprettelsesdato: 11/06/2022
+MedlemsId: 1085
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mikkel Larsen
+Email: mikkel15889@gmail.com
+TelefonNr: 86309233
+Oprettelsesdato: 11/04/2021
+MedlemsId: 1086
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Karin Vestergaard
+Email: karin2474@gmail.com
+TelefonNr: 32402141
+Oprettelsesdato: 27/03/2023
+MedlemsId: 1087
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Buch
+Email: anna10322@gmail.com
+TelefonNr: 53790549
+Oprettelsesdato: 04/12/2023
+MedlemsId: 1088
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Cecilie Larsen
+Email: cecilie21932@gmail.com
+TelefonNr: 50217326
+Oprettelsesdato: 02/08/2021
+MedlemsId: 1089
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sarah Buch
+Email: sarah1031@gmail.com
+TelefonNr: 34619181
+Oprettelsesdato: 19/02/2023
+MedlemsId: 1090
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Karin Rasmussen
+Email: karin4679@gmail.com
+TelefonNr: 12635338
+Oprettelsesdato: 06/10/2021
+MedlemsId: 1091
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Andersen
+Email: anna11446@gmail.com
+TelefonNr: 60202736
+Oprettelsesdato: 06/07/2023
+MedlemsId: 1092
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Frederik Nielsen
+Email: frederik19802@gmail.com
+TelefonNr: 58881786
+Oprettelsesdato: 10/02/2024
+MedlemsId: 1093
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Kjær
+Email: victor1261@gmail.com
+TelefonNr: 25417527
+Oprettelsesdato: 23/08/2023
+MedlemsId: 1094
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Søren Sorensen
+Email: søren12235@gmail.com
+TelefonNr: 95112231
+Oprettelsesdato: 28/09/2024
+MedlemsId: 1095
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Laura Andersen
+Email: laura1640@gmail.com
+TelefonNr: 10121916
+Oprettelsesdato: 21/05/2020
+MedlemsId: 1096
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Buch
+Email: sofie17523@gmail.com
+TelefonNr: 13005849
+Oprettelsesdato: 05/07/2020
+MedlemsId: 1097
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Poulsen
+Email: thomas17778@gmail.com
+TelefonNr: 49488342
+Oprettelsesdato: 11/02/2023
+MedlemsId: 1098
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Mikkelsen
+Email: maria20312@gmail.com
+TelefonNr: 20277433
+Oprettelsesdato: 11/12/2019
+MedlemsId: 1099
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Line Hansen
+Email: line2398@gmail.com
+TelefonNr: 81953149
+Oprettelsesdato: 25/06/2021
+MedlemsId: 1100
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Johansen
+Email: thomas21944@gmail.com
+TelefonNr: 82466191
+Oprettelsesdato: 16/12/2021
+MedlemsId: 1101
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Frederik Hansen
+Email: frederik941@gmail.com
+TelefonNr: 92970571
+Oprettelsesdato: 01/11/2024
+MedlemsId: 1102
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lars Johansen
+Email: lars11911@gmail.com
+TelefonNr: 75662787
+Oprettelsesdato: 28/09/2022
+MedlemsId: 1103
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Søren Nielsen
+Email: søren22147@gmail.com
+TelefonNr: 52406136
+Oprettelsesdato: 23/11/2023
+MedlemsId: 1104
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Cecilie Mikkelsen
+Email: cecilie19249@gmail.com
+TelefonNr: 53340318
+Oprettelsesdato: 23/06/2021
+MedlemsId: 1105
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Ole Vestergaard
+Email: ole21455@gmail.com
+TelefonNr: 74719708
+Oprettelsesdato: 22/05/2023
+MedlemsId: 1106
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Olsen
+Email: nicklas10029@gmail.com
+TelefonNr: 80365449
+Oprettelsesdato: 24/05/2024
+MedlemsId: 1107
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jacob Hansen
+Email: jacob11144@gmail.com
+TelefonNr: 68678768
+Oprettelsesdato: 01/08/2022
+MedlemsId: 1108
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sarah Pedersen
+Email: sarah4833@gmail.com
+TelefonNr: 38973324
+Oprettelsesdato: 20/02/2020
+MedlemsId: 1109
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Madsen
+Email: nicklas17639@gmail.com
+TelefonNr: 34395852
+Oprettelsesdato: 10/04/2020
+MedlemsId: 1110
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Hansen
+Email: victor782@gmail.com
+TelefonNr: 90877135
+Oprettelsesdato: 14/05/2021
+MedlemsId: 1111
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lars Berg
+Email: lars19080@gmail.com
+TelefonNr: 35721641
+Oprettelsesdato: 23/03/2022
+MedlemsId: 1112
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Julie Berg
+Email: julie6615@gmail.com
+TelefonNr: 71586844
+Oprettelsesdato: 20/01/2022
+MedlemsId: 1113
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helle Johansen
+Email: helle10501@gmail.com
+TelefonNr: 32176607
+Oprettelsesdato: 13/04/2020
+MedlemsId: 1114
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Andreas Vestergaard
+Email: andreas9129@gmail.com
+TelefonNr: 14718938
+Oprettelsesdato: 19/12/2023
+MedlemsId: 1115
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Christian Olsen
+Email: christian11366@gmail.com
+TelefonNr: 89416551
+Oprettelsesdato: 13/09/2022
+MedlemsId: 1116
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Andreas Mikkelsen
+Email: andreas9865@gmail.com
+TelefonNr: 98760722
+Oprettelsesdato: 12/06/2024
+MedlemsId: 1117
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Andersen
+Email: victor810@gmail.com
+TelefonNr: 46483802
+Oprettelsesdato: 23/12/2020
+MedlemsId: 1118
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Louise Larsen
+Email: louise7107@gmail.com
+TelefonNr: 32910957
+Oprettelsesdato: 17/04/2024
+MedlemsId: 1119
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Carina Jensen
+Email: carina9482@gmail.com
+TelefonNr: 84770543
+Oprettelsesdato: 22/05/2021
+MedlemsId: 1120
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jens Poulsen
+Email: jens17316@gmail.com
+TelefonNr: 55489587
+Oprettelsesdato: 27/02/2020
+MedlemsId: 1121
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Peter Christensen
+Email: peter16091@gmail.com
+TelefonNr: 68498560
+Oprettelsesdato: 15/05/2022
+MedlemsId: 1122
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hanne Rasmussen
+Email: hanne17372@gmail.com
+TelefonNr: 45280204
+Oprettelsesdato: 04/12/2022
+MedlemsId: 1123
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Sorensen
+Email: lise8831@gmail.com
+TelefonNr: 25187460
+Oprettelsesdato: 29/10/2024
+MedlemsId: 1124
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Line Olsen
+Email: line10799@gmail.com
+TelefonNr: 75883202
+Oprettelsesdato: 26/02/2024
+MedlemsId: 1125
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Kjær
+Email: thomas17384@gmail.com
+TelefonNr: 92173845
+Oprettelsesdato: 27/08/2023
+MedlemsId: 1126
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Jørgensen
+Email: emil18513@gmail.com
+TelefonNr: 56923452
+Oprettelsesdato: 31/10/2023
+MedlemsId: 1127
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Ole Kjær
+Email: ole6962@gmail.com
+TelefonNr: 24107882
+Oprettelsesdato: 26/05/2020
+MedlemsId: 1128
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Christian Hansen
+Email: christian11427@gmail.com
+TelefonNr: 28252419
+Oprettelsesdato: 09/10/2021
+MedlemsId: 1129
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maja Vestergaard
+Email: maja7156@gmail.com
+TelefonNr: 33420893
+Oprettelsesdato: 07/09/2020
+MedlemsId: 1130
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Johansen
+Email: simon11483@gmail.com
+TelefonNr: 20220928
+Oprettelsesdato: 16/08/2023
+MedlemsId: 1131
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Olsen
+Email: anna5029@gmail.com
+TelefonNr: 62759270
+Oprettelsesdato: 18/09/2024
+MedlemsId: 1132
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anders Jensen
+Email: anders5366@gmail.com
+TelefonNr: 46597502
+Oprettelsesdato: 29/12/2021
+MedlemsId: 1133
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Karin Buch
+Email: karin22172@gmail.com
+TelefonNr: 25193267
+Oprettelsesdato: 29/01/2021
+MedlemsId: 1134
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helena Rasmussen
+Email: helena6978@gmail.com
+TelefonNr: 62049473
+Oprettelsesdato: 15/09/2022
+MedlemsId: 1135
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Knudsen
+Email: maria16301@gmail.com
+TelefonNr: 43264043
+Oprettelsesdato: 15/01/2021
+MedlemsId: 1136
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Madsen
+Email: victor11787@gmail.com
+TelefonNr: 62379579
+Oprettelsesdato: 15/09/2024
+MedlemsId: 1137
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Jensen
+Email: anna6674@gmail.com
+TelefonNr: 99245894
+Oprettelsesdato: 18/02/2023
+MedlemsId: 1138
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Frederik Jørgensen
+Email: frederik18445@gmail.com
+TelefonNr: 53664619
+Oprettelsesdato: 20/04/2021
+MedlemsId: 1139
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Cecilie Christensen
+Email: cecilie9033@gmail.com
+TelefonNr: 30919889
+Oprettelsesdato: 19/11/2024
+MedlemsId: 1140
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lars Jørgensen
+Email: lars14085@gmail.com
+TelefonNr: 68349422
+Oprettelsesdato: 01/12/2023
+MedlemsId: 1141
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Hansen
+Email: emil17321@gmail.com
+TelefonNr: 80186812
+Oprettelsesdato: 24/11/2020
+MedlemsId: 1142
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Nielsen
+Email: emil20764@gmail.com
+TelefonNr: 18858403
+Oprettelsesdato: 13/10/2023
+MedlemsId: 1143
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Louise Knudsen
+Email: louise15488@gmail.com
+TelefonNr: 60725327
+Oprettelsesdato: 11/01/2021
+MedlemsId: 1144
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jens Andersen
+Email: jens3645@gmail.com
+TelefonNr: 13629779
+Oprettelsesdato: 05/01/2021
+MedlemsId: 1145
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mathias Larsen
+Email: mathias14547@gmail.com
+TelefonNr: 24412218
+Oprettelsesdato: 23/08/2021
+MedlemsId: 1146
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Buch
+Email: camilla9875@gmail.com
+TelefonNr: 43529491
+Oprettelsesdato: 19/01/2023
+MedlemsId: 1147
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hans Rasmussen
+Email: hans11491@gmail.com
+TelefonNr: 91491760
+Oprettelsesdato: 14/03/2020
+MedlemsId: 1148
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anders Rasmussen
+Email: anders10902@gmail.com
+TelefonNr: 95127010
+Oprettelsesdato: 10/06/2023
+MedlemsId: 1149
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helle Larsen
+Email: helle2410@gmail.com
+TelefonNr: 24005693
+Oprettelsesdato: 28/05/2022
+MedlemsId: 1150
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hans Hansen
+Email: hans7754@gmail.com
+TelefonNr: 55850586
+Oprettelsesdato: 18/07/2020
+MedlemsId: 1151
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Madsen
+Email: sofie20699@gmail.com
+TelefonNr: 10122639
+Oprettelsesdato: 13/12/2023
+MedlemsId: 1152
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Andersen
+Email: sofie3290@gmail.com
+TelefonNr: 80981688
+Oprettelsesdato: 19/12/2020
+MedlemsId: 1153
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Ole Vestergaard
+Email: ole1786@gmail.com
+TelefonNr: 70746738
+Oprettelsesdato: 03/05/2023
+MedlemsId: 1154
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Sorensen
+Email: camilla976@gmail.com
+TelefonNr: 33151322
+Oprettelsesdato: 25/06/2024
+MedlemsId: 1155
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Poulsen
+Email: maria16942@gmail.com
+TelefonNr: 10862289
+Oprettelsesdato: 28/09/2020
+MedlemsId: 1156
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Berg
+Email: katrine16983@gmail.com
+TelefonNr: 62762554
+Oprettelsesdato: 27/06/2022
+MedlemsId: 1157
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Hansen
+Email: lise4848@gmail.com
+TelefonNr: 17376058
+Oprettelsesdato: 10/05/2024
+MedlemsId: 1158
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Buch
+Email: simon7925@gmail.com
+TelefonNr: 94896119
+Oprettelsesdato: 18/11/2020
+MedlemsId: 1159
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Hansen
+Email: victor16208@gmail.com
+TelefonNr: 42351450
+Oprettelsesdato: 31/10/2022
+MedlemsId: 1160
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hanne Vestergaard
+Email: hanne12474@gmail.com
+TelefonNr: 44669004
+Oprettelsesdato: 09/09/2020
+MedlemsId: 1161
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jens Olsen
+Email: jens8204@gmail.com
+TelefonNr: 69785211
+Oprettelsesdato: 09/04/2022
+MedlemsId: 1162
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Kjær
+Email: katrine9646@gmail.com
+TelefonNr: 65246614
+Oprettelsesdato: 07/03/2023
+MedlemsId: 1163
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Ole Vestergaard
+Email: ole13069@gmail.com
+TelefonNr: 73268364
+Oprettelsesdato: 10/01/2022
+MedlemsId: 1164
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Laura Jensen
+Email: laura8679@gmail.com
+TelefonNr: 12161745
+Oprettelsesdato: 01/10/2023
+MedlemsId: 1165
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Knudsen
+Email: lise13715@gmail.com
+TelefonNr: 26750873
+Oprettelsesdato: 27/08/2021
+MedlemsId: 1166
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helle Vestergaard
+Email: helle986@gmail.com
+TelefonNr: 56326811
+Oprettelsesdato: 11/05/2020
+MedlemsId: 1167
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Peter Vestergaard
+Email: peter4125@gmail.com
+TelefonNr: 81944526
+Oprettelsesdato: 29/01/2020
+MedlemsId: 1168
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Ole Hansen
+Email: ole17856@gmail.com
+TelefonNr: 60945070
+Oprettelsesdato: 07/03/2024
+MedlemsId: 1169
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Knudsen
+Email: simon20843@gmail.com
+TelefonNr: 78063735
+Oprettelsesdato: 22/03/2021
+MedlemsId: 1170
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Berg
+Email: katrine12679@gmail.com
+TelefonNr: 31555174
+Oprettelsesdato: 29/08/2024
+MedlemsId: 1171
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Christian Poulsen
+Email: christian3607@gmail.com
+TelefonNr: 43930955
+Oprettelsesdato: 08/07/2023
+MedlemsId: 1172
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Sorensen
+Email: victor6215@gmail.com
+TelefonNr: 70489048
+Oprettelsesdato: 04/11/2022
+MedlemsId: 1173
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emma Sorensen
+Email: emma14124@gmail.com
+TelefonNr: 21802143
+Oprettelsesdato: 19/10/2020
+MedlemsId: 1174
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mette Mikkelsen
+Email: mette11476@gmail.com
+TelefonNr: 37541514
+Oprettelsesdato: 29/07/2022
+MedlemsId: 1175
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Andreas Madsen
+Email: andreas19545@gmail.com
+TelefonNr: 13404831
+Oprettelsesdato: 03/01/2021
+MedlemsId: 1176
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nina Poulsen
+Email: nina20523@gmail.com
+TelefonNr: 27850045
+Oprettelsesdato: 13/08/2022
+MedlemsId: 1177
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Vestergaard
+Email: emil11060@gmail.com
+TelefonNr: 76620382
+Oprettelsesdato: 11/08/2022
+MedlemsId: 1178
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Jens Buch
+Email: jens19741@gmail.com
+TelefonNr: 11576021
+Oprettelsesdato: 28/12/2020
+MedlemsId: 1179
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Benjamin Poulsen
+Email: benjamin20533@gmail.com
+TelefonNr: 11810319
+Oprettelsesdato: 16/09/2023
+MedlemsId: 1180
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sarah Poulsen
+Email: sarah2262@gmail.com
+TelefonNr: 79353300
+Oprettelsesdato: 30/05/2022
+MedlemsId: 1181
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hans Jørgensen
+Email: hans4493@gmail.com
+TelefonNr: 49217924
+Oprettelsesdato: 08/11/2022
+MedlemsId: 1182
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mette Andersen
+Email: mette7153@gmail.com
+TelefonNr: 79546843
+Oprettelsesdato: 13/06/2020
+MedlemsId: 1183
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Frederik Nielsen
+Email: frederik16069@gmail.com
+TelefonNr: 42726703
+Oprettelsesdato: 06/03/2023
+MedlemsId: 1184
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nina Jensen
+Email: nina4960@gmail.com
+TelefonNr: 58859950
+Oprettelsesdato: 08/10/2021
+MedlemsId: 1185
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Hansen
+Email: lise19999@gmail.com
+TelefonNr: 26207907
+Oprettelsesdato: 17/07/2024
+MedlemsId: 1186
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Rasmussen
+Email: lise3333@gmail.com
+TelefonNr: 47215920
+Oprettelsesdato: 11/03/2021
+MedlemsId: 1187
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Olsen
+Email: lise1172@gmail.com
+TelefonNr: 53436307
+Oprettelsesdato: 27/11/2024
+MedlemsId: 1188
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Line Knudsen
+Email: line17680@gmail.com
+TelefonNr: 32521570
+Oprettelsesdato: 25/02/2024
+MedlemsId: 1189
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Larsen
+Email: simon2679@gmail.com
+TelefonNr: 93802960
+Oprettelsesdato: 19/01/2021
+MedlemsId: 1190
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Ole Kjær
+Email: ole7443@gmail.com
+TelefonNr: 77333096
+Oprettelsesdato: 25/06/2023
+MedlemsId: 1191
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Julie Mikkelsen
+Email: julie7367@gmail.com
+TelefonNr: 85964238
+Oprettelsesdato: 11/08/2024
+MedlemsId: 1192
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mette Buch
+Email: mette15699@gmail.com
+TelefonNr: 69159043
+Oprettelsesdato: 10/03/2020
+MedlemsId: 1193
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helena Berg
+Email: helena212@gmail.com
+TelefonNr: 85724703
+Oprettelsesdato: 17/09/2024
+MedlemsId: 1194
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Peter Jørgensen
+Email: peter4507@gmail.com
+TelefonNr: 60424343
+Oprettelsesdato: 26/03/2020
+MedlemsId: 1195
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Larsen
+Email: nicklas10584@gmail.com
+TelefonNr: 56289654
+Oprettelsesdato: 18/04/2024
+MedlemsId: 1196
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Kjær
+Email: katrine11363@gmail.com
+TelefonNr: 68473893
+Oprettelsesdato: 16/07/2024
+MedlemsId: 1197
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Hansen
+Email: maria4602@gmail.com
+TelefonNr: 26024869
+Oprettelsesdato: 27/07/2021
+MedlemsId: 1198
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Poulsen
+Email: anna15360@gmail.com
+TelefonNr: 42799696
+Oprettelsesdato: 28/10/2024
+MedlemsId: 1199
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maria Jørgensen
+Email: maria20195@gmail.com
+TelefonNr: 65601182
+Oprettelsesdato: 28/11/2023
+MedlemsId: 1200
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Johansen
+Email: katrine12896@gmail.com
+TelefonNr: 24592232
+Oprettelsesdato: 09/01/2024
+MedlemsId: 1201
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anders Andersen
+Email: anders17533@gmail.com
+TelefonNr: 86385865
+Oprettelsesdato: 07/11/2024
+MedlemsId: 1202
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Karin Madsen
+Email: karin17225@gmail.com
+TelefonNr: 74725778
+Oprettelsesdato: 30/04/2022
+MedlemsId: 1203
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Julie Jørgensen
+Email: julie8931@gmail.com
+TelefonNr: 73038430
+Oprettelsesdato: 25/03/2024
+MedlemsId: 1204
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emma Larsen
+Email: emma15530@gmail.com
+TelefonNr: 53652890
+Oprettelsesdato: 21/12/2019
+MedlemsId: 1205
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mathias Berg
+Email: mathias19804@gmail.com
+TelefonNr: 91760454
+Oprettelsesdato: 01/05/2022
+MedlemsId: 1206
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Benjamin Mikkelsen
+Email: benjamin17319@gmail.com
+TelefonNr: 19001579
+Oprettelsesdato: 23/04/2023
+MedlemsId: 1207
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Poulsen
+Email: victor10345@gmail.com
+TelefonNr: 35574740
+Oprettelsesdato: 22/11/2020
+MedlemsId: 1208
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Hansen
+Email: sofie3297@gmail.com
+TelefonNr: 90163529
+Oprettelsesdato: 21/11/2024
+MedlemsId: 1209
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Søren Olsen
+Email: søren16876@gmail.com
+TelefonNr: 81894845
+Oprettelsesdato: 14/12/2021
+MedlemsId: 1210
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Larsen
+Email: simon7668@gmail.com
+TelefonNr: 46709663
+Oprettelsesdato: 27/04/2023
+MedlemsId: 1211
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Sofie Larsen
+Email: sofie4780@gmail.com
+TelefonNr: 55018659
+Oprettelsesdato: 21/02/2024
+MedlemsId: 1212
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Pedersen
+Email: emil8498@gmail.com
+TelefonNr: 89628789
+Oprettelsesdato: 19/10/2022
+MedlemsId: 1213
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: David Jensen
+Email: david14712@gmail.com
+TelefonNr: 32114299
+Oprettelsesdato: 17/01/2022
+MedlemsId: 1214
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nicklas Madsen
+Email: nicklas9301@gmail.com
+TelefonNr: 88159381
+Oprettelsesdato: 03/12/2024
+MedlemsId: 1215
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hanne Nielsen
+Email: hanne5645@gmail.com
+TelefonNr: 63291615
+Oprettelsesdato: 08/10/2020
+MedlemsId: 1216
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Laura Kjær
+Email: laura20395@gmail.com
+TelefonNr: 47049068
+Oprettelsesdato: 12/02/2021
+MedlemsId: 1217
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Victor Kjær
+Email: victor11196@gmail.com
+TelefonNr: 55547658
+Oprettelsesdato: 20/01/2024
+MedlemsId: 1218
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Christensen
+Email: anna13992@gmail.com
+TelefonNr: 28003841
+Oprettelsesdato: 07/04/2023
+MedlemsId: 1219
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emma Nielsen
+Email: emma2609@gmail.com
+TelefonNr: 43067477
+Oprettelsesdato: 03/07/2021
+MedlemsId: 1220
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Rasmussen
+Email: emil5012@gmail.com
+TelefonNr: 74849666
+Oprettelsesdato: 06/01/2023
+MedlemsId: 1221
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Thomas Nielsen
+Email: thomas12227@gmail.com
+TelefonNr: 65474749
+Oprettelsesdato: 17/10/2023
+MedlemsId: 1222
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Emil Larsen
+Email: emil2171@gmail.com
+TelefonNr: 70548279
+Oprettelsesdato: 25/01/2022
+MedlemsId: 1223
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Daniel Berg
+Email: daniel16313@gmail.com
+TelefonNr: 34482138
+Oprettelsesdato: 30/10/2024
+MedlemsId: 1224
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Katrine Olsen
+Email: katrine10802@gmail.com
+TelefonNr: 59021451
+Oprettelsesdato: 11/12/2023
+MedlemsId: 1225
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Kjær
+Email: anna7995@gmail.com
+TelefonNr: 41360360
+Oprettelsesdato: 09/01/2020
+MedlemsId: 1226
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Camilla Rasmussen
+Email: camilla21240@gmail.com
+TelefonNr: 48896266
+Oprettelsesdato: 02/12/2020
+MedlemsId: 1227
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Laura Sorensen
+Email: laura6621@gmail.com
+TelefonNr: 87097537
+Oprettelsesdato: 06/08/2020
+MedlemsId: 1228
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helle Sorensen
+Email: helle3154@gmail.com
+TelefonNr: 17795164
+Oprettelsesdato: 29/07/2022
+MedlemsId: 1229
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mette Olsen
+Email: mette15080@gmail.com
+TelefonNr: 16376928
+Oprettelsesdato: 10/10/2024
+MedlemsId: 1230
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hans Sorensen
+Email: hans18697@gmail.com
+TelefonNr: 30999374
+Oprettelsesdato: 20/08/2022
+MedlemsId: 1231
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maja Jensen
+Email: maja8502@gmail.com
+TelefonNr: 35822943
+Oprettelsesdato: 04/03/2020
+MedlemsId: 1232
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Anna Mikkelsen
+Email: anna18902@gmail.com
+TelefonNr: 54400329
+Oprettelsesdato: 20/04/2021
+MedlemsId: 1233
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Maja Nielsen
+Email: maja1479@gmail.com
+TelefonNr: 68999801
+Oprettelsesdato: 07/09/2022
+MedlemsId: 1234
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Daniel Hansen
+Email: daniel1713@gmail.com
+TelefonNr: 25480784
+Oprettelsesdato: 18/04/2020
+MedlemsId: 1235
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Benjamin Johansen
+Email: benjamin3652@gmail.com
+TelefonNr: 73291195
+Oprettelsesdato: 22/07/2021
+MedlemsId: 1236
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Andreas Mikkelsen
+Email: andreas12917@gmail.com
+TelefonNr: 95438161
+Oprettelsesdato: 21/06/2020
+MedlemsId: 1237
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Frederik Madsen
+Email: frederik7151@gmail.com
+TelefonNr: 34445619
+Oprettelsesdato: 16/10/2024
+MedlemsId: 1238
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Simon Vestergaard
+Email: simon14110@gmail.com
+TelefonNr: 95980146
+Oprettelsesdato: 14/03/2024
+MedlemsId: 1239
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mathias Kjær
+Email: mathias1584@gmail.com
+TelefonNr: 38417236
+Oprettelsesdato: 14/11/2021
+MedlemsId: 1240
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Mathias Mikkelsen
+Email: mathias20413@gmail.com
+TelefonNr: 88656784
+Oprettelsesdato: 11/09/2021
+MedlemsId: 1241
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Søren Kjær
+Email: søren15419@gmail.com
+TelefonNr: 60437303
+Oprettelsesdato: 26/05/2023
+MedlemsId: 1242
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Hans Sorensen
+Email: hans7237@gmail.com
+TelefonNr: 93061373
+Oprettelsesdato: 26/09/2022
+MedlemsId: 1243
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Karin Pedersen
+Email: karin4775@gmail.com
+TelefonNr: 22790630
+Oprettelsesdato: 31/10/2022
+MedlemsId: 1244
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: David Nielsen
+Email: david17253@gmail.com
+TelefonNr: 61384316
+Oprettelsesdato: 08/10/2024
+MedlemsId: 1245
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Lise Vestergaard
+Email: lise20896@gmail.com
+TelefonNr: 40654872
+Oprettelsesdato: 19/12/2019
+MedlemsId: 1246
+Aktivstatus: Aktiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Nina Hansen
+Email: nina19723@gmail.com
+TelefonNr: 25974554
+Oprettelsesdato: 18/06/2020
+MedlemsId: 1247
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: David Nielsen
+Email: david12613@gmail.com
+TelefonNr: 61646381
+Oprettelsesdato: 09/04/2022
+MedlemsId: 1248
+Aktivstatus: Passiv
+MedlemsType: Motionist
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Helena Berg
+Email: helena552@gmail.com
+TelefonNr: 26053510
+Oprettelsesdato: 06/09/2024
+MedlemsId: 1249
+Aktivstatus: Aktiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
+Navn: Julie Johansen
+Email: julie13662@gmail.com
+TelefonNr: 75201188
+Oprettelsesdato: 29/06/2021
+MedlemsId: 1250
+Aktivstatus: Passiv
+MedlemsType: Konkurrance
+Dato for skrivning: 05/12/2024 Tid: 13:21
+
