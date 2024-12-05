@@ -1,62 +1,62 @@
 LISTE OVER TRÆNERE
 
-Træner: Birgitte Sørensen
-CPR: 160842-8124
-Telefon: +45 24871943
-Mail: birgittesørensen@mail.com
+Træner: Jonas Møller
+CPR: 120242-9319
+Telefon: +45 63409324
+Mail: jonasmøller@mail.com
 Diciplin: Rygcrawl
 
-Træner: Birgitte Friis
-CPR: 120648-1534
-Telefon: +45 27147590
-Mail: birgittefriis@mail.com
-Diciplin: Svømning
+Træner: Katrine Lauridsen
+CPR: 030848-5774
+Telefon: +45 39911433
+Mail: katrinelauridsen@mail.com
+Diciplin: Rygcrawl
 
-Træner: Pia Friis
-CPR: 240557-9826
-Telefon: +45 65519268
-Mail: piafriis@mail.com
+Træner: Jonas Friis
+CPR: 260488-0741
+Telefon: +45 68917307
+Mail: jonasfriis@mail.com
+Diciplin: Rygcrawl
+
+Træner: Asger Petersen
+CPR: 240924-9209
+Telefon: +45 35698116
+Mail: asgerpetersen@mail.com
 Diciplin: Freestyle
 
-Træner: Asger Friis
-CPR: 191098-0809
-Telefon: +45 29071146
-Mail: asgerfriis@mail.com
-Diciplin: Svømning
-
-Træner: Asger Hansen
-CPR: 200911-6257
-Telefon: +45 48905063
-Mail: asgerhansen@mail.com
+Træner: Birgitte Kristensen
+CPR: 030242-5292
+Telefon: +45 89738166
+Mail: birgittekristensen@mail.com
 Diciplin: Butterfly
 
-Træner: Pia Kristensen
-CPR: 230607-1490
-Telefon: +45 70262160
-Mail: piakristensen@mail.com
-Diciplin: Brystsvømning
-
-Træner: Katrine Friis
-CPR: 260681-4614
-Telefon: +45 71196738
-Mail: katrinefriis@mail.com
-Diciplin: Brystsvømning
-
-Træner: Lotte Petersen
-CPR: 060375-4032
-Telefon: +45 17161444
-Mail: lottepetersen@mail.com
-Diciplin: Butterfly
-
-Træner: Birgitte Friis
-CPR: 270887-3834
-Telefon: +45 46477224
-Mail: birgittefriis@mail.com
+Træner: Pia Møller
+CPR: 010342-9162
+Telefon: +45 45416150
+Mail: piamøller@mail.com
 Diciplin: Rygcrawl
 
-Træner: Henrik Møller
-CPR: 080271-6973
-Telefon: +45 82025520
-Mail: henrikmøller@mail.com
+Træner: Lotte Friis
+CPR: 140134-4268
+Telefon: +45 89857644
+Mail: lottefriis@mail.com
+Diciplin: Brystsvømning
+
+Træner: Katrine Bæk
+CPR: 130754-2882
+Telefon: +45 45912746
+Mail: katrinebæk@mail.com
 Diciplin: Svømning
+
+Træner: Birgitte Friis
+CPR: 050126-2434
+Telefon: +45 55377719
+Mail: birgittefriis@mail.com
+Diciplin: Freestyle
+
+Træner: Asger Kristensen
+CPR: 120636-7173
+Telefon: +45 52389846
+Mail: asgerkristensen@mail.com
+Diciplin: Rygcrawl
 

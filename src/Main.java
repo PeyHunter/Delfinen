@@ -14,15 +14,17 @@ public class Main
         MedlemsPersistens medlemsPersistens = new MedlemsPersistens();
         medlemsPersistens.writeMedlemPersistens(medlemsOversigt.getMedlemmerOversigt());
 
-
         RestancePersistens restancePersistens = new RestancePersistens(medlemsOversigt);
         restancePersistens.writeRestancePersistens();
 
-        TraenerOversigt traenerOversigt = new TraenerOversigt();
-
         // Opret TraenerPersistens objekt og skriv trænere til fil
+
+        TraenerOversigt traenerOversigt = new TraenerOversigt();
         TraenerPersistens traenerPersistens = new TraenerPersistens(traenerOversigt.getTraenerListe());
         traenerPersistens.writeTraenerToFile();
+
+        GUI gui = new GUI();
+        gui.setVisible(true);
 
 
 

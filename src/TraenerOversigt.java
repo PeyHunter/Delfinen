@@ -66,6 +66,12 @@ public class TraenerOversigt
         traenerListe.add(t);
     }
 
+    public int getAntalTraenere()
+    {
+        return traenerListe.size();
+    }
+
+
 
     @Override
     public String toString() {

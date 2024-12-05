@@ -11,6 +11,9 @@ public class Traener extends Person {
         return this.diciplin;
     }
 
+
+
+
     @Override
     public String toString() {
         return "Træner: " + getNavn() + "\n" +

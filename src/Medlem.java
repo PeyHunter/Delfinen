@@ -1,6 +1,7 @@
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
+
 public class Medlem extends Person
 {
 
@@ -20,6 +21,10 @@ public class Medlem extends Person
         this.betalinger = betalinger != null ? betalinger : new Betalinger();
         this.medlemsId = medlemsId;
         this.erRestance = erRestance;
+    }
+
+    public String getNavn(){
+        return navn;
     }
 
     public LocalDate getOprettelsesDato()

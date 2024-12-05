@@ -10,45 +10,40 @@ public class RestancePersistens
     protected Betalinger betalinger;
     protected MedlemsOversigt medlemsOversigt;
 
-    public RestancePersistens(MedlemsOversigt medlemsOversigt) {
+    public RestancePersistens(MedlemsOversigt medlemsOversigt)
+    {
         this.medlemsOversigt = medlemsOversigt;
-        this.betalinger = new Betalinger();  // Initialize betalinger
+        this.betalinger = new Betalinger();
     }
 
 
     public void writeRestancePersistens()
     {
-        File restancePersistens = new File("/Users/peytonhunter/Library/CloudStorage/OneDrive-Personal/Documents/Datamatiker/1 Semester/Programmering/InteliJ/Delfinen/src/restancePersistens.txt");
+        File restancePersistensFile = new File("restancePersistens.txt"); // Use relative path for simplicity
 
-        try (FileWriter writer = new FileWriter(restancePersistens, false))
+        try (FileWriter writer = new FileWriter(restancePersistensFile, false))
         {
-            if (restancePersistens.length() == 0)
+            if (restancePersistensFile.length() == 0)
             {
                 writer.write("LISTE OVER MEDLEMMERE I RESTANCE \n\n");
             }
 
-            medlemsOversigt.addAlleMedlemmeretoRestanceList();
             ArrayList<Medlem> restanceListe = medlemsOversigt.getRestance().getRestanceListe();
-
-            for (int i = 0; i < restanceListe.size(); i++)
+            for (Medlem m : restanceListe)
             {
-                Medlem m = restanceListe.get(i);
-
+                int beløb = betalinger.udregnRestance(m);
                 writer.append(String.format(
                         "Medlem: %s\n" +
                                 "CPR: %s\n" +
                                 "Alder: %d\n" +
                                 "Aktiv/Passiv: %s\n" +
                                 "Skylder: %d DKK\n\n",
-
                         m.getNavn(),
                         m.getCpr(),
                         m.getAlder(),
                         m.getMedlemStatus(),
-                        betalinger.udregnRestance(m)  // Calculate the arrears for the member
+                        beløb
                 ));
-
-                writer.append(System.lineSeparator());
             }
         } catch (IOException e)
         {
@@ -57,6 +52,10 @@ public class RestancePersistens
     }
 
 
-
-
 }
+
+
+
+
+
+
