@@ -56,6 +56,11 @@ public class TraenerOversigt
         }
     }
 
+    public String getDisciplin()
+    {
+        return diciplin;
+    }
+
     public ArrayList<Traener> getTraenerListe()
     {
         return traenerListe;

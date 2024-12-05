@@ -15,7 +15,7 @@ public class Restance {
         }
     }
 
-    // Get arrears list
+
     public ArrayList<Medlem> getRestanceListe() {
         return restanceListe;
     }
@@ -27,5 +27,9 @@ public class Restance {
 
     public int getBeloebForMedlem(Medlem medlem) {
         return medlem.getBetalinger().udregnRestance(medlem);
+    }
+
+    public void removeMedlemFromRestance(Medlem medlem) {
+        restanceListe.remove(medlem);  // Remove the member from the arrears list
     }
 }

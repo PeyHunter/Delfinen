@@ -27,6 +27,13 @@ public class Medlem extends Person
         return navn;
     }
 
+
+
+    public boolean getRestance()
+    {
+        return erRestance;
+    }
+
     public LocalDate getOprettelsesDato()
     {
         return oprettelsesDato;

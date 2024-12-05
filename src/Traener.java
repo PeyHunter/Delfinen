@@ -6,10 +6,12 @@ public class Traener extends Person {
         this.diciplin = diciplin;
     }
 
-    public String getDiciplin()
+    public String getDisiplin()
     {
         return this.diciplin;
     }
+
+
 
 
 
