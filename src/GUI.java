@@ -536,8 +536,9 @@ public class GUI extends JFrame
 
             // Iterate through all members and filter those with restance
             boolean noMembersInRestance = true;  // Flag to handle case when there are no members with restance
-            for (Medlem medlem : medlemsOversigt.getMedlemmerOversigt()) {  // Assuming `medlemmer` holds all members
-                if (medlem.getRestance()) {  // Check if member is in restance (use appropriate flag or method)
+            for (int i = 0; i < medlemsOversigt.getMedlemmerOversigt().size(); i++) {
+                Medlem medlem = medlemsOversigt.getMedlemmerOversigt().get(i); // Access each member by index
+                if (medlem.getRestance()) {  // Check if member is in restance
                     noMembersInRestance = false;
 
                     // Calculate the amount owed for the member
