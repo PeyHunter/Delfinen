@@ -8,12 +8,14 @@
 
         protected ArrayList<Medlem> medlemmerOversigt = new ArrayList<>();
         protected Restance restance;
+        protected Betalinger betalinger;
 
 
         public MedlemsOversigt()
         {
             this.medlemmerOversigt = new ArrayList<>();
             this.restance = new Restance();
+            this.betalinger = new Betalinger();
             createMedlemmereOversigt();
         }
 
@@ -90,6 +92,12 @@
                     System.out.println("Added to RestanceListe: " + m.getNavn());
                 }
             }
+        }
+
+
+        public Betalinger getBetalinger()
+        {
+            return betalinger;
         }
 
         public Restance getRestance() {

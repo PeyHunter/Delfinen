@@ -4,6 +4,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.time.LocalDate;
+import java.text.NumberFormat;
 
 public class GUI extends JFrame
 {
@@ -32,10 +33,15 @@ public class GUI extends JFrame
         tabbedPane.addTab("Medlemmer", createMedlemTab());
         tabbedPane.addTab("Trænere", createTrainerTab());
         tabbedPane.addTab("Restance", createRestanceTab());
+        tabbedPane.addTab("Indtjening", createIndtjeningTab());
 
         // Add the tabbed pane to the window
         add(tabbedPane, BorderLayout.CENTER);
     }
+
+
+
+
 
     // Create Medlem Tab
     private JPanel createMedlemTab() {
@@ -121,7 +127,7 @@ public class GUI extends JFrame
                             LocalDate.now(),       // Registration date (current date)
                             aktiv,                 // Aktiv/Passiv status
                             motionist,             // Motionist/Konkurrance status
-                            medlemsOversigt.getAntalMedlemmere() + 1, // Member ID
+                            medlemsOversigt.getAntalMedlemmere() + 1001, // Member ID
                             new Betalinger(),      // Pass a new Betalinger object
                             false                  // Assume no restance for new members
                     );
@@ -175,22 +181,23 @@ public class GUI extends JFrame
         try
         {
             // Apply bold style to the header row
-            doc.insertString(doc.getLength(), String.format("%-25s %-20s %-15s %-15s %-20s\n",
-                    "Navn", "CPR", "Tlf", "Status", "Type"), boldStyle);
+            doc.insertString(doc.getLength(), String.format("%-25s %-20s %-15s %-15s %-20s %-20s\n",
+                    "Navn", "CPR", "Tlf", "Status", "Type", "MedlemsID"), boldStyle);
 
             // Add a line for separation (lighter color for subtle elegance)
-            doc.insertString(doc.getLength(), "-------------------------------------------------------------------------------------\n", null);
+            doc.insertString(doc.getLength(), "---------------------------------------------------------------------------------------------------------------------\n", null);
 
             // Format the rows with alternating light and dark backgrounds for better readability
             boolean isEvenRow = true;
             for (Medlem medlem : medlemsOversigt.getMedlemmerOversigt())
             {
-                doc.insertString(doc.getLength(), String.format("%-25s %-20s %-15s %-15s %-20s\n",
+                doc.insertString(doc.getLength(), String.format("%-25s %-20s %-15s %-15s %-20s %-20s\n",
                         medlem.navn,
                         medlem.cpr.toString(),
                         medlem.telNr,
                         medlem.getMedlemStatus(),
-                        medlem.getMedlemsType()
+                        medlem.getMedlemsType(),
+                        medlem.getMedlemsId()
                 ), null);
                 isEvenRow = !isEvenRow;
             }
@@ -399,109 +406,6 @@ public class GUI extends JFrame
         JScrollPane scrollPane = new JScrollPane(restanceTextPane);
         panel.add(scrollPane, BorderLayout.CENTER);
 
-        // Panel for adding new members to restance (same layout as Medlem tab)
-        JPanel addRestancePanel = new JPanel(new GridLayout(10, 2, 10, 10)); // Increased grid rows to match Medlem tab
-        addRestancePanel.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10)); // Add padding around the panel
-        JTextField navnField = new JTextField();
-        JTextField cprField = new JTextField(); // CPR field
-        JTextField tlfNrField = new JTextField();
-        JTextField mailField = new JTextField();
-
-        // Radio buttons for Aktiv/Passiv
-        JRadioButton aktivButton = new JRadioButton("Aktiv", true);
-        JRadioButton passivButton = new JRadioButton("Passiv");
-        ButtonGroup statusGroup = new ButtonGroup();
-        statusGroup.add(aktivButton);
-        statusGroup.add(passivButton);
-
-        // Radio buttons for Motionist/Konkurrence
-        JRadioButton motionistButton = new JRadioButton("Motionist", true);
-        JRadioButton konkurranceButton = new JRadioButton("Konkurrance Deltager");
-        ButtonGroup typeGroup = new ButtonGroup();
-        typeGroup.add(motionistButton);
-        typeGroup.add(konkurranceButton);
-
-        // Add fields to the panel (same as Medlem tab)
-        addRestancePanel.add(new JLabel("Navn:"));
-        addRestancePanel.add(navnField);
-        addRestancePanel.add(new JLabel("CPR:"));
-        addRestancePanel.add(cprField);
-        addRestancePanel.add(new JLabel("Tlf Nr:"));
-        addRestancePanel.add(tlfNrField);
-        addRestancePanel.add(new JLabel("Mail:"));
-        addRestancePanel.add(mailField);
-        addRestancePanel.add(new JLabel("Aktiv Status:"));
-        addRestancePanel.add(aktivButton);
-        addRestancePanel.add(new JLabel(""));
-        addRestancePanel.add(passivButton);
-        addRestancePanel.add(new JLabel("Medlemstype:"));
-        addRestancePanel.add(motionistButton);
-        addRestancePanel.add(new JLabel(""));
-        addRestancePanel.add(konkurranceButton);
-
-        // Add button directly under "Konkurrance Deltager"
-        JButton addButton = new JButton("Tilføj Medlem til Restance");
-        addButton.setFont(new Font("Helvetica", Font.PLAIN, 14));
-        addButton.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                try {
-                    String navn = navnField.getText().trim();
-                    String cprNumber = cprField.getText().trim(); // Get CPR input
-                    String tlfNrInput = tlfNrField.getText().trim();
-                    String mail = mailField.getText().trim();
-
-                    if (navn.isEmpty() || cprNumber.isEmpty() || tlfNrInput.isEmpty() || mail.isEmpty()) {
-                        JOptionPane.showMessageDialog(GUI.this, "Alle felter skal udfyldes!", "Fejl", JOptionPane.ERROR_MESSAGE);
-                        return;
-                    }
-
-                    int tlfNr = Integer.parseInt(tlfNrInput);
-
-                    boolean aktiv = aktivButton.isSelected();
-                    boolean motionist = motionistButton.isSelected();
-
-                    // Create a new Medlem object for restance (set to true for restance)
-                    Medlem newMedlem = new Medlem(
-                            navn,
-                            new CPR(cprNumber),    // CPR object with proper validation
-                            tlfNr,                 // Phone number (int)
-                            mail,                  // Email
-                            LocalDate.now(),       // Registration date (current date)
-                            aktiv,                 // Aktiv/Passiv status
-                            motionist,             // Motionist/Konkurrance status
-                            medlemsOversigt.getAntalMedlemmere() + 1, // Member ID
-                            new Betalinger(),      // Pass a new Betalinger object
-                            true                   // Set to true for restance
-                    );
-
-                    // Add member to the restance list
-                    restance.addMedlemToRestance(newMedlem);
-
-                    // Update display
-                    updateRestanceTextArea(restanceTextPane);
-
-                    // Clear form fields after adding a member
-                    navnField.setText("");
-                    cprField.setText("");
-                    tlfNrField.setText("");
-                    mailField.setText("");
-
-                    JOptionPane.showMessageDialog(GUI.this, "Medlem tilføjet til Restance!", "Success", JOptionPane.INFORMATION_MESSAGE);
-
-                } catch (NumberFormatException ex) {
-                    JOptionPane.showMessageDialog(GUI.this, "Tlf Nr skal være et gyldigt nummer!", "Fejl", JOptionPane.ERROR_MESSAGE);
-                }
-            }
-        });
-
-        // Add the button to the panel below "Konkurrance Deltager"
-        addRestancePanel.add(new JLabel("")); // Empty label to fill space
-        addRestancePanel.add(addButton);
-
-        // Add the addRestancePanel to the NORTH section of the main panel
-        panel.add(addRestancePanel, BorderLayout.NORTH);
-
         return panel;
     }
 
@@ -510,7 +414,7 @@ public class GUI extends JFrame
         StringBuilder sb = new StringBuilder();
 
         // Use monospaced font for consistent alignment
-        Font font = new Font("Monospaced", Font.PLAIN, 14); // You can use "SF Mono" or "Courier New" as alternatives
+        Font font = new Font("Monospaced", Font.PLAIN, 14);
 
         // Create a StyledDocument for rich text formatting
         StyledDocument doc = new DefaultStyledDocument();
@@ -525,7 +429,7 @@ public class GUI extends JFrame
             doc.insertString(doc.getLength(), String.format("%-25s %-20s %-15s %-15s %-20s %-10s\n",
                     "Navn", "CPR", "Tlf", "Status", "Type", "Skylder"), boldStyle);
 
-            // Add a line for separation (lighter color for subtle elegance)
+            // Add a line for separation
             doc.insertString(doc.getLength(), "---------------------------------------------------------------------------------------------------------------\n", null);
 
             // Format the rows with alternating light and dark backgrounds for better readability
@@ -535,10 +439,10 @@ public class GUI extends JFrame
             Betalinger betalinger = new Betalinger();
 
             // Iterate through all members and filter those with restance
-            boolean noMembersInRestance = true;  // Flag to handle case when there are no members with restance
+            boolean noMembersInRestance = true;
             for (int i = 0; i < medlemsOversigt.getMedlemmerOversigt().size(); i++) {
-                Medlem medlem = medlemsOversigt.getMedlemmerOversigt().get(i); // Access each member by index
-                if (medlem.getRestance()) {  // Check if member is in restance
+                Medlem medlem = medlemsOversigt.getMedlemmerOversigt().get(i);
+                if (medlem.getRestance()) {
                     noMembersInRestance = false;
 
                     // Calculate the amount owed for the member
@@ -568,13 +472,119 @@ public class GUI extends JFrame
             restanceTextPane.setStyledDocument(doc);
 
             // Set the font for the entire text
-            restanceTextPane.setFont(font); // Set the modern monospaced font
-            restanceTextPane.setCaretPosition(0); // Move the cursor to the top of the text area
-            restanceTextPane.setBackground(Color.WHITE); // White background for text area
-            restanceTextPane.setForeground(new Color(50, 50, 50)); // Dark text color for contrast
+            restanceTextPane.setFont(font);
+            restanceTextPane.setCaretPosition(0);
+            restanceTextPane.setBackground(Color.WHITE);
+            restanceTextPane.setForeground(new Color(50, 50, 50));
 
-            // Optional: Set some padding within the text area for a more spaced-out feel
-            restanceTextPane.setMargin(new Insets(10, 10, 10, 10)); // Add padding around the text area
+            // Optional: Set some padding within the text area
+            restanceTextPane.setMargin(new Insets(10, 10, 10, 10));
+        } catch (BadLocationException e) {
+            e.printStackTrace();
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+    private JPanel createIndtjeningTab() {
+        JPanel panel = new JPanel(new BorderLayout());
+
+        // JTextPane for displaying revenue details
+        JTextPane indtjeningTextPane = new JTextPane();
+        indtjeningTextPane.setEditable(false);
+        updateIndtjeningTextArea(indtjeningTextPane); // Update to show revenue list
+
+        // Scroll pane for revenue details
+        JScrollPane scrollPane = new JScrollPane(indtjeningTextPane);
+        panel.add(scrollPane, BorderLayout.CENTER);
+
+        return panel;
+    }
+
+    // Helper method to update the text area with formatted revenue data
+    private void updateIndtjeningTextArea(JTextPane indtjeningTextPane) {
+        // Use monospaced font for consistent alignment
+        Font font = new Font("Monospaced", Font.PLAIN, 14);
+
+        // Create a StyledDocument for rich text formatting
+        StyledDocument doc = new DefaultStyledDocument();
+
+        // Define a bold style for the header
+        SimpleAttributeSet boldStyle = new SimpleAttributeSet();
+        StyleConstants.setBold(boldStyle, true);
+
+        SimpleAttributeSet greenStyle = new SimpleAttributeSet();
+        StyleConstants.setForeground(greenStyle, Color.GREEN);
+
+        SimpleAttributeSet redStyle = new SimpleAttributeSet();
+        StyleConstants.setForeground(redStyle, Color.RED);
+
+        // Get the number formatter
+        NumberFormat numberFormat = NumberFormat.getInstance();
+        numberFormat.setGroupingUsed(true); // Enable grouping for thousands separator
+
+        try {
+            // Apply bold style to the header row
+            doc.insertString(doc.getLength(), String.format("%-37s %-35s %-35s\n",
+                    "Forventet Årlig Indtjening", "Reelle Indtjening", "Total Restance"), boldStyle);
+
+            // Add a line for separation
+            doc.insertString(doc.getLength(), "---------------------------------------------------------------------------------------------------------------\n", null);
+
+            if (medlemsOversigt == null || medlemsOversigt.getMedlemmerOversigt() == null) {
+                doc.insertString(doc.getLength(), "Ingen data tilgængelig.\n", null);
+            } else {
+                Betalinger medlemBetalinger = medlemsOversigt.getBetalinger();
+
+                int forventetIndtjening = 0; // Total expected revenue
+                int totalRestance = 0; // Total owed amount (restance)
+
+                // Iterate over all members using a normal for loop
+                for (int i = 0; i < medlemsOversigt.getMedlemmerOversigt().size(); i++) {
+                    Medlem medlem = medlemsOversigt.getMedlemmerOversigt().get(i);
+
+                    // Add the membership fee to expected revenue
+                    forventetIndtjening += medlemBetalinger.udregnBetalinger(medlem);
+
+                    // If the member is in restance, add their owed amount to totalRestance
+                    if (medlem.getRestance()) {
+                        totalRestance += Math.abs(medlemBetalinger.udregnRestance(medlem));
+                    }
+                }
+
+                // Calculate the actual revenue
+                int reelleIndtjening = forventetIndtjening - totalRestance;
+
+                // Format the numbers with commas
+                String formattedForventetIndtjening = numberFormat.format(forventetIndtjening);
+                String formattedReelleIndtjening = numberFormat.format(reelleIndtjening);
+                String formattedTotalRestance = numberFormat.format(totalRestance);
+
+                // Format and display the revenue details with formatted numbers
+                doc.insertString(doc.getLength(), String.format("%-37s %-35s %-35s\n",
+                        formattedForventetIndtjening, formattedReelleIndtjening, formattedTotalRestance), null);
+            }
+
+            // Set the rich text content into the JTextPane
+            indtjeningTextPane.setText(""); // Clear any previous text
+            indtjeningTextPane.setStyledDocument(doc);
+
+            // Set the font for the entire text
+            indtjeningTextPane.setFont(font);
+            indtjeningTextPane.setCaretPosition(0);
+            indtjeningTextPane.setBackground(Color.WHITE);
+            indtjeningTextPane.setForeground(new Color(50, 50, 50));
+
+            // Optional: Add padding around the text area
+            indtjeningTextPane.setMargin(new Insets(10, 10, 10, 10));
         } catch (BadLocationException e) {
             e.printStackTrace();
         }

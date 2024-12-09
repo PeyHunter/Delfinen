@@ -12,6 +12,7 @@ public class Medlem extends Person
     protected Betalinger betalinger;
     protected boolean erRestance = false;
 
+
     public Medlem(String navn, CPR cpr, int telNr, String mail, LocalDate oprettelsesDato, boolean aktivStatus, boolean erMotionist, int medlemsId, Betalinger betalinger, boolean erRestance)
     {
         super(navn, cpr, telNr, mail);
@@ -26,7 +27,6 @@ public class Medlem extends Person
     public String getNavn(){
         return navn;
     }
-
 
 
     public boolean getRestance()
