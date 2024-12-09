@@ -30,6 +30,6 @@ public class Restance {
     }
 
     public void removeMedlemFromRestance(Medlem medlem) {
-        restanceListe.remove(medlem);  // Remove the member from the arrears list
+        restanceListe.remove(medlem);  //Fjern medlem fra Restance
     }
 }

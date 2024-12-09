@@ -2,7 +2,6 @@ public abstract class Person
 {
 
     protected String navn;
-   // protected int foedselsdag;
 
     protected CPR cpr;
     protected int telNr;

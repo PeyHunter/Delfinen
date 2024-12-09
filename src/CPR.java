@@ -38,11 +38,6 @@ public class CPR
         return nummeret;
     }
 
-    public void setCprNr(String n)
-    {
-        nummeret = n;
-    }
-
     public int getDag()
     {
         return Integer.parseInt(nummeret.substring(0, 2));
@@ -54,19 +49,18 @@ public class CPR
     }
 
 
-    public int getAar() {
+    public int getAar()
+    {
 
         int yearPart = Integer.parseInt(nummeret.substring(4, 6));
 
-
-        char centuryIndicator = nummeret.charAt(6);
-
         int century;
 
-
-        if (yearPart < 24) {
+        if (yearPart < 24)
+        {
             century = 2000;
-        } else {
+        } else
+        {
             century = 1900;
         }
 
@@ -78,20 +72,16 @@ public class CPR
         int age = currentYear - year;
 
 
-        if (age < 10) {
+        if (age < 10)
+        {
             year -= 100;
-        } else if (age > 100) {
+        } else if (age > 100)
+        {
             year += 100;
         }
 
         return year;
     }
-
-
-
-
-
-
 
 
     public Dato getDato()
@@ -102,7 +92,8 @@ public class CPR
 
     ;
 
-    public int getAlder() {
+    public int getAlder()
+    {
         LocalDate foedselsdag = LocalDate.of(getAar(), getMaaned(), getDag());
         LocalDate iDag = LocalDate.now();
 
@@ -110,7 +101,8 @@ public class CPR
 
 
         if (iDag.getMonthValue() < foedselsdag.getMonthValue() ||
-                (iDag.getMonthValue() == foedselsdag.getMonthValue() && iDag.getDayOfMonth() < foedselsdag.getDayOfMonth())) {
+                (iDag.getMonthValue() == foedselsdag.getMonthValue() && iDag.getDayOfMonth() < foedselsdag.getDayOfMonth()))
+        {
             alder--;  // Træk 1 fra, hvis fødselsdagen ikke er sket endnu
         }
 
@@ -147,7 +139,6 @@ public class CPR
 
         for (int i = 0; i < 10; i++)
             udregnet += vaegte[i] * Integer.parseInt("" + nummeret.charAt(i));
-        // valdemar gjorde sådan her: udregnet += vaegte[i] *nummeret.charAt(i) - '0';
 
         if (udregnet % 11 != 0)
             return false;
@@ -161,7 +152,8 @@ public class CPR
     }
 
 
-    private String generateRandomCPR() {
+    private String generateRandomCPR()
+    {
         Random random = new Random();
 
         LocalDate currentDate = LocalDate.now();

@@ -1,62 +1,62 @@
 LISTE OVER TRÆNERE
 
-Træner: Birgitte Jakobsen
-CPR: 150895-0854
-Telefon: +45 50737343
-Mail: birgittejakobsen@mail.com
-Diciplin: Freestyle
-
-Træner: Birgitte Jakobsen
-CPR: 270901-9732
-Telefon: +45 22947798
-Mail: birgittejakobsen@mail.com
+Træner: Pia Friis
+CPR: 131050-5216
+Telefon: +45 25306204
+Mail: piafriis@mail.com
 Diciplin: Brystsvømning
 
-Træner: Magnus Thomsen
-CPR: 131105-2419
-Telefon: +45 56273468
-Mail: magnusthomsen@mail.com
+Træner: Magnus Hansen
+CPR: 240460-7769
+Telefon: +45 31503590
+Mail: magnushansen@mail.com
 Diciplin: Freestyle
 
-Træner: Katrine Thomsen
-CPR: 260702-7674
-Telefon: +45 63100859
-Mail: katrinethomsen@mail.com
-Diciplin: Brystsvømning
-
-Træner: Jonas Lauridsen
-CPR: 210430-9747
-Telefon: +45 17257888
-Mail: jonaslauridsen@mail.com
-Diciplin: Brystsvømning
-
-Træner: Niels Møller
-CPR: 111288-3653
-Telefon: +45 67541424
-Mail: nielsmøller@mail.com
-Diciplin: Rygcrawl
-
-Træner: Kasper Thomsen
-CPR: 240490-3239
-Telefon: +45 87650345
-Mail: kasperthomsen@mail.com
-Diciplin: Freestyle
-
-Træner: Katrine Thomsen
-CPR: 241179-3846
-Telefon: +45 37325296
-Mail: katrinethomsen@mail.com
+Træner: Lotte Sørensen
+CPR: 060163-9862
+Telefon: +45 70740966
+Mail: lottesørensen@mail.com
 Diciplin: Rygcrawl
 
 Træner: Magnus Petersen
-CPR: 081189-2307
-Telefon: +45 57002076
+CPR: 041151-5145
+Telefon: +45 23362815
 Mail: magnuspetersen@mail.com
+Diciplin: Freestyle
+
+Træner: Pia Jakobsen
+CPR: 200581-4566
+Telefon: +45 93600676
+Mail: piajakobsen@mail.com
 Diciplin: Butterfly
 
+Træner: Katrine Thomsen
+CPR: 131082-6158
+Telefon: +45 64891760
+Mail: katrinethomsen@mail.com
+Diciplin: Rygcrawl
+
+Træner: Asger Lauridsen
+CPR: 200946-1695
+Telefon: +45 92839075
+Mail: asgerlauridsen@mail.com
+Diciplin: Freestyle
+
 Træner: Pia Kristensen
-CPR: 140213-8468
-Telefon: +45 31455517
+CPR: 010472-8254
+Telefon: +45 31768634
 Mail: piakristensen@mail.com
+Diciplin: Brystsvømning
+
+Træner: Magnus Kristensen
+CPR: 080499-9925
+Telefon: +45 48620586
+Mail: magnuskristensen@mail.com
+Diciplin: Butterfly
+
+Træner: Lotte Hansen
+CPR: 010253-7274
+Telefon: +45 43015992
+Mail: lottehansen@mail.com
 Diciplin: Rygcrawl
 

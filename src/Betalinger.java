@@ -12,7 +12,6 @@ public class Betalinger
     protected int medlemsKontingent;
 
 
-
     public Betalinger(int medlemsKontingent)
     {
         this.medlemsKontingent = medlemsKontingent;
@@ -55,7 +54,7 @@ public class Betalinger
             int alder = medlem.getAlder();
             if (medlem.getAlderKatogori().equalsIgnoreCase("Junior"))
             {
-                restance = - 1000;
+                restance = -1000;
             } else if (alder >= 60)
             {
                 restance = (int) (-1600 * 0.75);
@@ -69,7 +68,6 @@ public class Betalinger
         }
         return restance;
     }
-
 
 
 }

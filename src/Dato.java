@@ -4,7 +4,8 @@ public class Dato
     private int datoen; // Format YYYYMMDD
 
     public Dato() // Default constructor
-    {}
+    {
+    }
 
     public Dato(int enDato)
     {
@@ -42,7 +43,6 @@ public class Dato
     }
 
 
-
     public int forskelIDage(Dato enDato)
     {
         int antalDage = 0;
@@ -58,8 +58,7 @@ public class Dato
                 antalDage++;
             }
 
-        else
-        if (kopiDato.datoen > enDato.datoen)
+        else if (kopiDato.datoen > enDato.datoen)
             while (kopiDato.datoen != enDato.datoen)
             {
                 kopiDato.setDatoMinusEn();
@@ -77,7 +76,7 @@ public class Dato
         Dato kopiDato = new Dato();
         kopiDato.datoen = datoen;
 
-        if(kopiDato.datoen < enDato.datoen)
+        if (kopiDato.datoen < enDato.datoen)
 
             while (kopiDato.datoen != enDato.datoen)
             {
@@ -85,8 +84,7 @@ public class Dato
                 antalDage++;
             }
 
-        else
-        if (kopiDato.datoen > enDato.datoen)
+        else if (kopiDato.datoen > enDato.datoen)
             while (kopiDato.datoen != enDato.datoen)
             {
                 kopiDato.setDatoMinusEn();
@@ -96,7 +94,7 @@ public class Dato
         return antalDage;
     }
 
-    static final String[]dag = {"","man", "tirs", "ons", "tors", "fre", "lør", "søn"};
+    static final String[] dag = {"", "man", "tirs", "ons", "tors", "fre", "lør", "søn"};
     // et forsøg på at sparer plads. final betyder at det ikke kan ændres.
 
     //udnyt forskel i dag, med
@@ -134,19 +132,21 @@ public class Dato
         maaned = maaned % 100;
         return maaned;
     }
+
     public int getMaanedshort()
     {
         return (datoen / 100) % 100;
     }
+
     public int getDag()
     {
         return (datoen % 100);
     }
+
     public int getKvartal()
     {
         return (getMaaned() + 2) / 3;
     }
-
 
 
     //boolen kan kun retunere true eller false
@@ -155,16 +155,13 @@ public class Dato
     {
         int aar = getAar();
 
-        if (aar % 4 !=0)
+        if (aar % 4 != 0)
         {
             return false;
-        }
-        else
-        if (aar % 100 == 0 && aar % 400 != 0)
+        } else if (aar % 100 == 0 && aar % 400 != 0)
         {
             return false;
-        }
-        else
+        } else
         {
             return true;
         }
@@ -175,9 +172,9 @@ public class Dato
     public boolean skudAarProf()
     {
         int aar = getAar();
-        if (aar % 4 != 0 )
+        if (aar % 4 != 0)
             return false;
-        if (aar % 100 == 0 && aar % 400 !=0)
+        if (aar % 100 == 0 && aar % 400 != 0)
             return false;
         return true;
     }
@@ -232,7 +229,7 @@ public class Dato
     {
         int datoen = getDatoen();
 
-        if(datoen < 17000301)
+        if (datoen < 17000301)
         {
             return false;
         }
@@ -252,7 +249,7 @@ public class Dato
             return false;
         }
 
-        if ((getMaaned() == 4||getMaaned() == 6 || getMaaned() == 9 || getMaaned() == 11) && getDag() > 30)
+        if ((getMaaned() == 4 || getMaaned() == 6 || getMaaned() == 9 || getMaaned() == 11) && getDag() > 30)
         {
             return false;
         }
@@ -265,18 +262,16 @@ public class Dato
         if (!skudAar() && getMaaned() == 2 && getDag() > 28)
         {
             return false;
-        }
-        else
+        } else
         {
             return true;
         }
     }
 
 
-
-
     //precondition: datoen er valid
-    public int dagIAar() {
+    public int dagIAar()
+    {
         int skudDag = 0;
         if (skudAar())
             skudDag = 1;
@@ -317,29 +312,32 @@ public class Dato
         return 334 + getDag() + skudDag;
     }
 
-    public int dagIAarShort() {
+    public int dagIAarShort()
+    {
         int skudDag = 0;
         if (skudAar() && getMaaned() > 2)
             skudDag = 1;
 
-        int[]sumDag = {0, 0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334};
+        int[] sumDag = {0, 0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334};
 
-        return getDag() + skudDag + sumDag[getMaaned()] ;
-    };
+        return getDag() + skudDag + sumDag[getMaaned()];
+    }
 
-    public int restDagIAar ()
+    ;
+
+    public int restDagIAar()
     {
         int totaleDage;
         if (skudAar())
         {
             totaleDage = 366;
-        }
-        else
+        } else
         {
             totaleDage = 365;
-        };
+        }
+        ;
 
-        return dagIAarShort() - totaleDage ;
+        return dagIAarShort() - totaleDage;
     }
 
     public int restDageIAarXtra()

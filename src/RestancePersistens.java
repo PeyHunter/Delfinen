@@ -19,7 +19,7 @@ public class RestancePersistens
 
     public void writeRestancePersistens()
     {
-        File restancePersistensFile = new File("restancePersistens.txt"); // Use relative path for simplicity
+        File restancePersistensFile = new File("restancePersistens.txt");
 
         try (FileWriter writer = new FileWriter(restancePersistensFile, false))
         {
