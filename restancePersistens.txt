@@ -1,716 +1,830 @@
 LISTE OVER MEDLEMMERE I RESTANCE 
 
-Medlem: Julie Buch
-CPR: 240279-0006
-Alder: 45
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Maria Jensen
-CPR: 050798-3810
-Alder: 26
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Benjamin Poulsen
-CPR: 230633-5443
-Alder: 91
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Hans Olsen
-CPR: 140163-4919
-Alder: 61
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Sofie Jørgensen
-CPR: 100867-4938
-Alder: 57
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Karin Knudsen
-CPR: 140852-9578
-Alder: 72
+Medlem: Cecilie Nielsen
+CPR: 010624-4574
+Alder: 100
 Aktiv/Passiv: Aktiv
 Skylder: -1200 DKK
 
-Medlem: Andreas Mikkelsen
-CPR: 190687-3195
-Alder: 37
+Medlem: Louise Vestergaard
+CPR: 210682-7074
+Alder: 42
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
-Medlem: Lars Mikkelsen
-CPR: 261065-4881
-Alder: 59
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Frederik Buch
-CPR: 010576-3865
-Alder: 48
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Nina Madsen
-CPR: 181074-7060
-Alder: 50
+Medlem: Simon Nielsen
+CPR: 250938-3727
+Alder: 86
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
-Medlem: Nicklas Poulsen
-CPR: 060230-9009
-Alder: 94
+Medlem: Anna Kjær
+CPR: 181060-3484
+Alder: 64
 Aktiv/Passiv: Aktiv
 Skylder: -1200 DKK
 
-Medlem: Maja Berg
-CPR: 020773-4410
-Alder: 51
+Medlem: Lise Larsen
+CPR: 120478-4908
+Alder: 46
 Aktiv/Passiv: Aktiv
 Skylder: -1600 DKK
 
-Medlem: Nina Madsen
-CPR: 100948-1290
+Medlem: Simon Berg
+CPR: 100248-7653
 Alder: 76
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Emil Jørgensen
-CPR: 080791-2355
-Alder: 33
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
-Medlem: Anna Nielsen
-CPR: 090869-3374
-Alder: 55
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Line Madsen
-CPR: 030281-9618
-Alder: 43
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Benjamin Madsen
-CPR: 140573-2641
-Alder: 51
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Maja Sorensen
-CPR: 110695-5522
-Alder: 29
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Frederik Berg
-CPR: 170655-5603
-Alder: 69
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Emma Berg
-CPR: 150732-5968
-Alder: 92
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Nicklas Johansen
-CPR: 280309-7745
-Alder: 15
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Mikkel Berg
-CPR: 070147-8633
-Alder: 77
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Maja Christensen
-CPR: 170643-2650
-Alder: 81
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Mette Madsen
-CPR: 210542-6632
+Medlem: Louise Sorensen
+CPR: 011242-4770
 Alder: 82
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
-Medlem: Cecilie Kjær
-CPR: 210705-7312
-Alder: 19
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
+Medlem: Benjamin Berg
+CPR: 231205-0787
+Alder: 18
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
 
-Medlem: Lise Vestergaard
-CPR: 100560-6574
-Alder: 64
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: David Kjær
-CPR: 221168-2495
-Alder: 56
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Jacob Christensen
-CPR: 230291-3373
-Alder: 33
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Julie Mikkelsen
-CPR: 020825-6920
-Alder: 99
+Medlem: Thomas Vestergaard
+CPR: 021146-5183
+Alder: 78
 Aktiv/Passiv: Aktiv
 Skylder: -1200 DKK
 
-Medlem: Laura Sorensen
-CPR: 140150-6928
+Medlem: Emma Larsen
+CPR: 240869-3284
+Alder: 55
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Line Buch
+CPR: 040768-7316
+Alder: 56
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Sarah Jensen
+CPR: 221101-8316
+Alder: 23
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Julie Jensen
+CPR: 210432-8272
+Alder: 92
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Simon Vestergaard
+CPR: 180140-5403
+Alder: 84
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Laura Johansen
+CPR: 281060-6142
+Alder: 64
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Karin Nielsen
+CPR: 280450-1904
 Alder: 74
 Aktiv/Passiv: Aktiv
 Skylder: -1200 DKK
 
-Medlem: Lars Madsen
-CPR: 140453-0181
-Alder: 71
+Medlem: Hans Knudsen
+CPR: 100238-3715
+Alder: 86
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Nina Rasmussen
+CPR: 200925-4944
+Alder: 99
 Aktiv/Passiv: Aktiv
 Skylder: -1200 DKK
 
-Medlem: Anna Andersen
-CPR: 240203-3230
-Alder: 21
+Medlem: Victor Hansen
+CPR: 180607-1987
+Alder: 17
+Aktiv/Passiv: Aktiv
+Skylder: -1000 DKK
+
+Medlem: Carina Buch
+CPR: 030732-2554
+Alder: 92
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
-Medlem: Julie Christensen
-CPR: 121143-3194
-Alder: 81
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
+Medlem: Frederik Sorensen
+CPR: 180228-7759
+Alder: 96
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
 
-Medlem: Line Christensen
-CPR: 220766-9006
+Medlem: Lise Jensen
+CPR: 180766-0414
 Alder: 58
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
-Medlem: Mathias Andersen
-CPR: 060239-9335
-Alder: 85
+Medlem: Sarah Pedersen
+CPR: 171224-1510
+Alder: 99
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Nicklas Larsen
+CPR: 150961-3019
+Alder: 63
 Aktiv/Passiv: Aktiv
 Skylder: -1200 DKK
 
-Medlem: Nicklas Vestergaard
-CPR: 160160-4989
+Medlem: Ole Buch
+CPR: 280104-6629
+Alder: 20
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Anders Madsen
+CPR: 131250-1965
+Alder: 73
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Hans Hansen
+CPR: 090731-1157
+Alder: 93
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Benjamin Madsen
+CPR: 011079-1763
+Alder: 45
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Anna Olsen
+CPR: 030331-7362
+Alder: 93
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Peter Mikkelsen
+CPR: 220968-7403
+Alder: 56
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Julie Hansen
+CPR: 200842-6600
+Alder: 82
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Mette Kjær
+CPR: 160804-4650
+Alder: 20
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Anna Nielsen
+CPR: 070363-0848
+Alder: 61
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Helena Madsen
+CPR: 270110-1522
+Alder: 14
+Aktiv/Passiv: Aktiv
+Skylder: -1000 DKK
+
+Medlem: Emil Jørgensen
+CPR: 120490-8793
+Alder: 34
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Cecilie Nielsen
+CPR: 160381-6282
+Alder: 43
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Andreas Mikkelsen
+CPR: 100153-5295
+Alder: 71
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Hans Madsen
+CPR: 160672-6335
+Alder: 52
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Carina Poulsen
+CPR: 050624-2494
+Alder: 100
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Lars Larsen
+CPR: 101059-3479
+Alder: 65
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Helena Berg
+CPR: 220867-2970
+Alder: 57
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: David Jensen
+CPR: 010129-0697
+Alder: 95
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Hans Nielsen
+CPR: 070458-2233
+Alder: 66
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Louise Berg
+CPR: 070296-5716
+Alder: 28
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Peter Andersen
+CPR: 070743-1831
+Alder: 81
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Camilla Christensen
+CPR: 010667-1246
+Alder: 57
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Lise Larsen
+CPR: 080185-0968
+Alder: 39
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Maria Knudsen
+CPR: 170673-4204
+Alder: 51
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Carina Olsen
+CPR: 130105-9608
+Alder: 19
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Julie Andersen
+CPR: 150109-7640
+Alder: 15
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Frederik Madsen
+CPR: 051087-8557
+Alder: 37
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Hanne Jensen
+CPR: 140995-5182
+Alder: 29
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Camilla Andersen
+CPR: 120440-6026
+Alder: 84
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Emma Hansen
+CPR: 270679-6322
+Alder: 45
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Ole Knudsen
+CPR: 260434-5891
+Alder: 90
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Cecilie Madsen
+CPR: 181287-9758
+Alder: 36
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Anders Jørgensen
+CPR: 100192-3469
+Alder: 32
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Hanne Berg
+CPR: 080560-6388
 Alder: 64
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
-Medlem: Louise Vestergaard
-CPR: 200574-6678
-Alder: 50
+Medlem: Sarah Olsen
+CPR: 170250-6506
+Alder: 74
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Laura Jensen
+CPR: 050312-8652
+Alder: 12
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
-Medlem: Simon Pedersen
-CPR: 280208-0319
+Medlem: Jens Madsen
+CPR: 221186-7667
+Alder: 38
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Julie Poulsen
+CPR: 031281-1200
+Alder: 43
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Line Andersen
+CPR: 010979-8370
+Alder: 45
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Sarah Madsen
+CPR: 130887-8218
+Alder: 37
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Jens Rasmussen
+CPR: 030110-4371
+Alder: 14
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Laura Jensen
+CPR: 220525-1516
+Alder: 99
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Julie Madsen
+CPR: 030702-1168
+Alder: 22
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Nicklas Madsen
+CPR: 120656-8977
+Alder: 68
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Line Johansen
+CPR: 120471-1642
+Alder: 53
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Laura Johansen
+CPR: 150761-0206
+Alder: 63
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Emil Sorensen
+CPR: 270674-1843
+Alder: 50
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Sarah Larsen
+CPR: 080955-6258
+Alder: 69
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Line Jørgensen
+CPR: 110559-6570
+Alder: 65
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Daniel Nielsen
+CPR: 241288-4741
+Alder: 35
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Jens Jørgensen
+CPR: 020865-8291
+Alder: 59
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Carina Christensen
+CPR: 170184-2930
+Alder: 40
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Laura Pedersen
+CPR: 280108-3602
 Alder: 16
 Aktiv/Passiv: Aktiv
 Skylder: -1000 DKK
 
-Medlem: Victor Buch
-CPR: 070739-1833
-Alder: 85
+Medlem: Louise Poulsen
+CPR: 190885-3794
+Alder: 39
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Louise Berg
+CPR: 070693-7960
+Alder: 31
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Simon Jensen
+CPR: 010760-6013
+Alder: 64
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
-Medlem: Lars Olsen
-CPR: 111274-4737
-Alder: 49
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Line Berg
-CPR: 270548-8444
-Alder: 76
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Hans Sorensen
-CPR: 120457-8735
-Alder: 67
+Medlem: Lise Andersen
+CPR: 140153-9512
+Alder: 71
 Aktiv/Passiv: Aktiv
 Skylder: -1200 DKK
 
-Medlem: Sofie Olsen
-CPR: 101187-6412
+Medlem: Mikkel Sorensen
+CPR: 160529-2211
+Alder: 95
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Andreas Larsen
+CPR: 260292-1839
+Alder: 32
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Ole Kjær
+CPR: 251109-9215
+Alder: 15
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Thomas Nielsen
+CPR: 260713-5551
+Alder: 11
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Helena Poulsen
+CPR: 060685-7154
+Alder: 39
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Maria Sorensen
+CPR: 041113-4422
+Alder: 11
+Aktiv/Passiv: Aktiv
+Skylder: -1000 DKK
+
+Medlem: Emil Christensen
+CPR: 150893-2031
+Alder: 31
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Katrine Olsen
+CPR: 091045-5696
+Alder: 79
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Maria Christensen
+CPR: 270286-0074
+Alder: 38
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Mikkel Jensen
+CPR: 070172-8699
+Alder: 52
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Ole Knudsen
+CPR: 191177-2487
+Alder: 47
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Ole Buch
+CPR: 150561-1253
+Alder: 63
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Karin Poulsen
+CPR: 141141-6624
+Alder: 83
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Cecilie Vestergaard
+CPR: 060167-6124
+Alder: 57
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Jacob Hansen
+CPR: 170970-9253
+Alder: 54
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Maja Rasmussen
+CPR: 260729-7012
+Alder: 95
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Sofie Johansen
+CPR: 020814-6586
+Alder: 10
+Aktiv/Passiv: Aktiv
+Skylder: -1000 DKK
+
+Medlem: Ole Knudsen
+CPR: 231186-8257
+Alder: 38
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Jacob Buch
+CPR: 010863-9269
+Alder: 61
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Thomas Vestergaard
+CPR: 170556-7427
+Alder: 68
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Nina Johansen
+CPR: 231200-1190
+Alder: 23
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Sarah Hansen
+CPR: 071042-0582
+Alder: 82
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Lise Madsen
+CPR: 131145-4804
+Alder: 79
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Katrine Johansen
+CPR: 190346-4622
+Alder: 78
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Karin Vestergaard
+CPR: 020647-8784
+Alder: 77
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Benjamin Poulsen
+CPR: 020324-9493
+Alder: 100
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Søren Madsen
+CPR: 100380-9253
+Alder: 44
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Søren Berg
+CPR: 120652-1619
+Alder: 72
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Peter Nielsen
+CPR: 070189-0829
+Alder: 35
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Helena Poulsen
+CPR: 090798-6932
+Alder: 26
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Helle Vestergaard
+CPR: 130867-4472
+Alder: 57
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Nina Madsen
+CPR: 251156-1746
+Alder: 68
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Carina Johansen
+CPR: 150504-9640
+Alder: 20
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Nicklas Andersen
+CPR: 130535-7021
+Alder: 89
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Sofie Larsen
+CPR: 190900-6404
+Alder: 24
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Jens Olsen
+CPR: 230204-0341
+Alder: 20
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Emma Larsen
+CPR: 130800-9810
+Alder: 24
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Jacob Madsen
+CPR: 140671-9839
+Alder: 53
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Laura Buch
+CPR: 120611-1034
+Alder: 13
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Lars Vestergaard
+CPR: 180645-1283
+Alder: 79
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Emma Pedersen
+CPR: 030245-9668
+Alder: 79
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Louise Hansen
+CPR: 261243-5262
+Alder: 80
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Carina Andersen
+CPR: 250913-2574
+Alder: 11
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Nicklas Berg
+CPR: 180360-1407
+Alder: 64
+Aktiv/Passiv: Aktiv
+Skylder: -1200 DKK
+
+Medlem: Helle Jørgensen
+CPR: 280179-9646
+Alder: 45
+Aktiv/Passiv: Aktiv
+Skylder: -1600 DKK
+
+Medlem: Emil Larsen
+CPR: 270251-0277
+Alder: 73
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Cecilie Olsen
+CPR: 170154-0944
+Alder: 70
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Sarah Mikkelsen
+CPR: 250737-6550
+Alder: 87
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Christian Poulsen
+CPR: 241141-5653
+Alder: 83
+Aktiv/Passiv: Passiv
+Skylder: -500 DKK
+
+Medlem: Maria Larsen
+CPR: 191286-4856
 Alder: 37
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
 Medlem: Hans Kjær
-CPR: 050209-4913
-Alder: 15
-Aktiv/Passiv: Aktiv
-Skylder: -1000 DKK
-
-Medlem: Laura Jensen
-CPR: 140996-1962
-Alder: 28
+CPR: 170468-0137
+Alder: 56
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
-Medlem: Ole Sorensen
-CPR: 110730-8297
-Alder: 94
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Maria Rasmussen
-CPR: 221241-5754
-Alder: 82
+Medlem: Simon Andersen
+CPR: 070472-2337
+Alder: 52
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
-Medlem: Thomas Larsen
-CPR: 020207-8901
-Alder: 17
+Medlem: Sarah Pedersen
+CPR: 070677-5102
+Alder: 47
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
-
-Medlem: Carina Olsen
-CPR: 200555-4150
-Alder: 69
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Mikkel Nielsen
-CPR: 190262-3311
-Alder: 62
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Sofie Kjær
-CPR: 190790-1164
-Alder: 34
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Søren Pedersen
-CPR: 150834-6911
-Alder: 90
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Christian Jensen
-CPR: 230911-8023
-Alder: 13
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Emma Nielsen
-CPR: 091232-4148
-Alder: 92
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Carina Jørgensen
-CPR: 090733-0760
-Alder: 91
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Lars Jørgensen
-CPR: 050741-8405
-Alder: 83
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Lars Vestergaard
-CPR: 150746-3187
-Alder: 78
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Nicklas Jensen
-CPR: 150647-1443
-Alder: 77
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Camilla Buch
-CPR: 080156-7348
-Alder: 68
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Hanne Johansen
-CPR: 160610-3828
-Alder: 14
-Aktiv/Passiv: Aktiv
-Skylder: -1000 DKK
-
-Medlem: Lise Vestergaard
-CPR: 020851-4234
-Alder: 73
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Søren Christensen
-CPR: 280210-9677
-Alder: 14
-Aktiv/Passiv: Aktiv
-Skylder: -1000 DKK
-
-Medlem: Daniel Nielsen
-CPR: 040624-2765
-Alder: 100
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Line Madsen
-CPR: 070405-9248
-Alder: 19
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: David Larsen
-CPR: 280711-3535
-Alder: 13
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Cecilie Jensen
-CPR: 151113-7908
-Alder: 11
-Aktiv/Passiv: Aktiv
-Skylder: -1000 DKK
-
-Medlem: Helle Pedersen
-CPR: 130737-1354
-Alder: 87
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Karin Hansen
-CPR: 221277-7876
-Alder: 46
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Søren Madsen
-CPR: 220840-2619
-Alder: 84
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Hanne Jensen
-CPR: 041009-4944
-Alder: 15
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Nicklas Knudsen
-CPR: 030962-2519
-Alder: 62
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Sarah Sorensen
-CPR: 110158-2050
-Alder: 66
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Sarah Christensen
-CPR: 160765-5984
-Alder: 59
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Thomas Pedersen
-CPR: 121006-6081
-Alder: 18
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Hanne Poulsen
-CPR: 021103-6326
-Alder: 21
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Maja Andersen
-CPR: 040866-2568
-Alder: 58
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Peter Knudsen
-CPR: 080127-7759
-Alder: 97
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Line Olsen
-CPR: 210799-2782
-Alder: 25
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
 
 Medlem: Laura Pedersen
-CPR: 190510-9802
-Alder: 14
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Jacob Poulsen
-CPR: 130940-6893
-Alder: 84
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Jacob Nielsen
-CPR: 230942-2211
-Alder: 82
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Frederik Poulsen
-CPR: 241094-4885
-Alder: 30
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Nicklas Rasmussen
-CPR: 151049-4505
-Alder: 75
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Helle Jørgensen
-CPR: 010685-4410
-Alder: 39
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Maria Rasmussen
-CPR: 150360-5142
-Alder: 64
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Emma Johansen
-CPR: 130135-9680
-Alder: 89
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Christian Pedersen
-CPR: 030169-1349
-Alder: 55
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Jens Poulsen
-CPR: 251125-7239
-Alder: 99
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Thomas Olsen
-CPR: 100297-2769
-Alder: 27
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Camilla Sorensen
-CPR: 160385-2310
-Alder: 39
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Lise Rasmussen
-CPR: 281214-7316
-Alder: 9
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Julie Jensen
-CPR: 240368-8900
-Alder: 56
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Mette Christensen
-CPR: 030705-8246
-Alder: 19
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Hanne Rasmussen
-CPR: 250649-6530
-Alder: 75
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Line Olsen
-CPR: 180145-7616
-Alder: 79
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Ole Rasmussen
-CPR: 061274-3749
+CPR: 220774-3586
 Alder: 50
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Nina Larsen
-CPR: 040711-7354
-Alder: 13
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
-Medlem: Katrine Pedersen
-CPR: 200680-6690
-Alder: 44
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Carina Knudsen
-CPR: 270755-8150
-Alder: 69
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Maria Jensen
-CPR: 051093-5446
-Alder: 31
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: David Nielsen
-CPR: 080975-0217
-Alder: 49
+Medlem: Simon Nielsen
+CPR: 011201-8523
+Alder: 23
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
-Medlem: Maria Pedersen
-CPR: 140960-0178
-Alder: 64
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Victor Poulsen
-CPR: 121106-8477
-Alder: 18
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Helle Olsen
-CPR: 011126-7324
-Alder: 98
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Daniel Hansen
-CPR: 231002-9795
-Alder: 22
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Maria Knudsen
-CPR: 221004-8380
-Alder: 20
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Thomas Andersen
-CPR: 210641-6291
-Alder: 83
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Katrine Hansen
-CPR: 250831-3288
-Alder: 93
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Carina Vestergaard
-CPR: 091061-2664
-Alder: 63
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Daniel Larsen
-CPR: 211151-2845
-Alder: 73
-Aktiv/Passiv: Aktiv
-Skylder: -1200 DKK
-
-Medlem: Søren Berg
-CPR: 160385-4873
-Alder: 39
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Sarah Kjær
-CPR: 090963-9698
-Alder: 61
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Emil Berg
-CPR: 250875-3115
-Alder: 49
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Victor Nielsen
-CPR: 251000-8661
-Alder: 24
-Aktiv/Passiv: Aktiv
-Skylder: -1600 DKK
-
-Medlem: Emma Kjær
-CPR: 271090-4246
+Medlem: Maria Johansen
+CPR: 260390-2318
 Alder: 34
 Aktiv/Passiv: Passiv
 Skylder: -500 DKK
 
-Medlem: Søren Hansen
-CPR: 060969-7521
-Alder: 55
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Mikkel Kjær
-CPR: 200482-7209
-Alder: 42
+Medlem: Andreas Olsen
+CPR: 220886-2845
+Alder: 38
 Aktiv/Passiv: Aktiv
 Skylder: -1600 DKK
-
-Medlem: Sarah Buch
-CPR: 170102-2978
-Alder: 22
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
-
-Medlem: Hans Rasmussen
-CPR: 140631-8969
-Alder: 93
-Aktiv/Passiv: Passiv
-Skylder: -500 DKK
 

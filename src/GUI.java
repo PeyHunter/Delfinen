@@ -566,7 +566,7 @@ public class GUI extends JFrame
                 // Format the numbers with commas
                 String formattedForventetIndtjening = numberFormat.format(forventetIndtjening);
                 String formattedReelleIndtjening = numberFormat.format(reelleIndtjening);
-                String formattedTotalRestance = numberFormat.format(totalRestance);
+                String formattedTotalRestance = (totalRestance > 0 ? "-" : "") + numberFormat.format(totalRestance);
 
                 // Format and display the revenue details with formatted numbers
                 doc.insertString(doc.getLength(), String.format("%-37s %-35s %-35s\n",

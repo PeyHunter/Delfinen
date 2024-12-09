@@ -1,62 +1,62 @@
 LISTE OVER TRÆNERE
 
-Træner: Pia Jakobsen
-CPR: 261002-5346
-Telefon: +45 85628582
-Mail: piajakobsen@mail.com
+Træner: Birgitte Jakobsen
+CPR: 150895-0854
+Telefon: +45 50737343
+Mail: birgittejakobsen@mail.com
 Diciplin: Freestyle
 
-Træner: Kasper Møller
-CPR: 180284-8421
-Telefon: +45 63551073
-Mail: kaspermøller@mail.com
+Træner: Birgitte Jakobsen
+CPR: 270901-9732
+Telefon: +45 22947798
+Mail: birgittejakobsen@mail.com
 Diciplin: Brystsvømning
 
-Træner: Asger Jakobsen
-CPR: 160431-6487
-Telefon: +45 59013433
-Mail: asgerjakobsen@mail.com
-Diciplin: Svømning
-
-Træner: Henrik Kristensen
-CPR: 090470-5009
-Telefon: +45 58846969
-Mail: henrikkristensen@mail.com
-Diciplin: Brystsvømning
-
-Træner: Jonas Jakobsen
-CPR: 011276-1523
-Telefon: +45 62190963
-Mail: jonasjakobsen@mail.com
-Diciplin: Brystsvømning
-
-Træner: Niels Lauridsen
-CPR: 210125-9065
-Telefon: +45 28126009
-Mail: nielslauridsen@mail.com
+Træner: Magnus Thomsen
+CPR: 131105-2419
+Telefon: +45 56273468
+Mail: magnusthomsen@mail.com
 Diciplin: Freestyle
 
-Træner: Kasper Møller
-CPR: 221063-7945
-Telefon: +45 47378165
-Mail: kaspermøller@mail.com
-Diciplin: Butterfly
+Træner: Katrine Thomsen
+CPR: 260702-7674
+Telefon: +45 63100859
+Mail: katrinethomsen@mail.com
+Diciplin: Brystsvømning
 
-Træner: Niels Lauridsen
-CPR: 270401-9615
-Telefon: +45 30404582
-Mail: nielslauridsen@mail.com
+Træner: Jonas Lauridsen
+CPR: 210430-9747
+Telefon: +45 17257888
+Mail: jonaslauridsen@mail.com
+Diciplin: Brystsvømning
+
+Træner: Niels Møller
+CPR: 111288-3653
+Telefon: +45 67541424
+Mail: nielsmøller@mail.com
 Diciplin: Rygcrawl
 
-Træner: Pia Friis
-CPR: 190742-4136
-Telefon: +45 54336504
-Mail: piafriis@mail.com
-Diciplin: Svømning
+Træner: Kasper Thomsen
+CPR: 240490-3239
+Telefon: +45 87650345
+Mail: kasperthomsen@mail.com
+Diciplin: Freestyle
 
-Træner: Niels Thomsen
-CPR: 240108-6615
-Telefon: +45 31617278
-Mail: nielsthomsen@mail.com
-Diciplin: Svømning
+Træner: Katrine Thomsen
+CPR: 241179-3846
+Telefon: +45 37325296
+Mail: katrinethomsen@mail.com
+Diciplin: Rygcrawl
+
+Træner: Magnus Petersen
+CPR: 081189-2307
+Telefon: +45 57002076
+Mail: magnuspetersen@mail.com
+Diciplin: Butterfly
+
+Træner: Pia Kristensen
+CPR: 140213-8468
+Telefon: +45 31455517
+Mail: piakristensen@mail.com
+Diciplin: Rygcrawl
 
