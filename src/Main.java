@@ -25,11 +25,7 @@ public class Main
 
         GUI gui = new GUI();
         gui.setVisible(true);
-
-
-
-
-
+        
     }
 }
 

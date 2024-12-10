@@ -1,62 +1,62 @@
 LISTE OVER TRÆNERE
 
-Træner: Pia Friis
-CPR: 131050-5216
-Telefon: +45 25306204
-Mail: piafriis@mail.com
+Træner: Birgitte Lauridsen
+CPR: 090679-5204
+Telefon: +45 75182140
+Mail: birgittelauridsen@mail.com
+Diciplin: Freestyle
+
+Træner: Jonas Kristensen
+CPR: 240524-9495
+Telefon: +45 52986593
+Mail: jonaskristensen@mail.com
+Diciplin: Svømning
+
+Træner: Lotte Bæk
+CPR: 061226-6972
+Telefon: +45 94417020
+Mail: lottebæk@mail.com
 Diciplin: Brystsvømning
 
-Træner: Magnus Hansen
-CPR: 240460-7769
-Telefon: +45 31503590
-Mail: magnushansen@mail.com
-Diciplin: Freestyle
+Træner: Pia Møller
+CPR: 230437-0284
+Telefon: +45 38489122
+Mail: piamøller@mail.com
+Diciplin: Svømning
 
-Træner: Lotte Sørensen
-CPR: 060163-9862
-Telefon: +45 70740966
-Mail: lottesørensen@mail.com
-Diciplin: Rygcrawl
-
-Træner: Magnus Petersen
-CPR: 041151-5145
-Telefon: +45 23362815
-Mail: magnuspetersen@mail.com
-Diciplin: Freestyle
-
-Træner: Pia Jakobsen
-CPR: 200581-4566
-Telefon: +45 93600676
-Mail: piajakobsen@mail.com
+Træner: Katrine Lauridsen
+CPR: 190130-7162
+Telefon: +45 38582853
+Mail: katrinelauridsen@mail.com
 Diciplin: Butterfly
-
-Træner: Katrine Thomsen
-CPR: 131082-6158
-Telefon: +45 64891760
-Mail: katrinethomsen@mail.com
-Diciplin: Rygcrawl
-
-Træner: Asger Lauridsen
-CPR: 200946-1695
-Telefon: +45 92839075
-Mail: asgerlauridsen@mail.com
-Diciplin: Freestyle
-
-Træner: Pia Kristensen
-CPR: 010472-8254
-Telefon: +45 31768634
-Mail: piakristensen@mail.com
-Diciplin: Brystsvømning
 
 Træner: Magnus Kristensen
-CPR: 080499-9925
-Telefon: +45 48620586
+CPR: 090605-1997
+Telefon: +45 84442771
 Mail: magnuskristensen@mail.com
-Diciplin: Butterfly
+Diciplin: Brystsvømning
 
-Træner: Lotte Hansen
-CPR: 010253-7274
-Telefon: +45 43015992
-Mail: lottehansen@mail.com
+Træner: Jonas Møller
+CPR: 170290-9091
+Telefon: +45 95751147
+Mail: jonasmøller@mail.com
 Diciplin: Rygcrawl
+
+Træner: Lotte Jakobsen
+CPR: 260785-9070
+Telefon: +45 29545212
+Mail: lottejakobsen@mail.com
+Diciplin: Brystsvømning
+
+Træner: Birgitte Bæk
+CPR: 270702-6042
+Telefon: +45 72124668
+Mail: birgittebæk@mail.com
+Diciplin: Brystsvømning
+
+Træner: Lotte Thomsen
+CPR: 260446-6668
+Telefon: +45 72104835
+Mail: lottethomsen@mail.com
+Diciplin: Svømning
 
